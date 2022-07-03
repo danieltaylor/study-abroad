@@ -1,15 +1,46 @@
-# Plague, Penecillin, and Pasteur
-
 ## Travel Map
 ![](./map1.png)
 
 
 ## Contents
 - [London](#london)
-	- [Saturday, July 2](#saturday,-july-2)
+	- [Sunday, July 3](#sunday-july-3)
+	- [Saturday, July 2](#saturday-july-2)
 
 
 ## London
+
+#### Sunday, July 3
+
+Today we attended sacrament meeting at the Hyde Park Ward.  The building they meet in is super interesting; it functions as a meetinghouse, a visitors' center, a mission office, etc., etc.
+
+![](./2022-7-3/church_group.jpeg)
+*This was just part of our group—the rest went to later wards*
+
+After church we took the tube down to Wimbledon for The Championships.  I'm not a huge tennis fan myself, but everyone else was going and I figured at the very least it would be worth going for bragging rights.
+
+![](./2022-7-3/tennis_throne.jpeg)
+*I thought it was odd that a tournament in the UK was sponsored by AmEx*
+
+We bought the cheap tickets, so we didn't get to see anything at the central court, but we were able to catch some really good doubles matches.  In the first one, a Women's Doubles match, the team from the US managed to catch up on a 5-1 set with 5 wins in a row.  Unfortunately the other team tied it back up to 6-6 and them went on to win the tie breaker.
+
+![](./2022-7-3/womens_doubles.jpeg)
+*Alison Riske-Amritraj serving in the Women's Doubles match*
+
+Between that match and a Men's Doubles I grabbed some food, which I have been requested to include pictures of.
+
+![](./2022-7-3/high_hurst.jpeg)
+*High Hurst sausage on a sourdough bun with fried onions and sriracha mayo*
+
+In the Men's Doubles match, we got to see the number one ranked team play, which had one player from the US and another from Great Britain.  It was a thrilling match, and the reactions of one of the opposing players were very entertaining.
+
+![](./2022-7-3/rajeev_ram.jpeg)
+*Rajeev Ram (USA) serving in the Men's Doubles match*
+
+Overall the tennis games were really fun to watch, and certainly beat all the walking around that we've been doing to get places.  I think it's safe to say the trip was worth more than bragging rights to me, but that also didn't stop me from buying a hat to show off.
+
+![](./2022-7-3/wimbledon_group.jpeg)
+
 
 #### Saturday, July 2
 
