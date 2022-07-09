@@ -4,13 +4,57 @@
 
 ## Contents
 - [London](#london)
+	- [Thursday, July 7](#thursday-july-7)
 	- [Wednesday, July 6](#wednesday-july-6)
 	- [Tuesday, July 5](#tuesday-july-5)
+	- [Monday, July 4](#monday-july-4)
 	- [Sunday, July 3](#sunday-july-3)
 	- [Saturday, July 2](#saturday-july-2)
 
 
 ## London
+
+#### Thursday, July 7
+
+Today we went on a walking tour around London led by Dr. Breakwell.  We stopped by lots of different sites, including the first public drinking fountain, St. Bartholomew's Hospital, and St. John's Ambulance.
+
+![](./2022-7-7/drinking_fountain.jpeg)
+*Lauren and I drinking from the first public drinking fountain*
+
+From what I understand, St. John's Ambulence is kind of like the Red Cross.  It has a youth organization called the Badgers, and if you collect all nine Badger badges, you can become a Super Badger!
+
+![](./2022-7-7/badger_badges.jpeg)
+*The nine badges of power*
+
+![](./2022-7-7/bertie_badger.jpeg)
+*The coveted (by me) Bertie Badger figurine awarded to Super Badgers*
+
+We also stopped by the Charterhouse, which had a cool greyhound motif to it.  The ends of the staircase banisters had carved greyhounds topping them, but we hadn't realized we weren't supposed to be over there without a tour guide, so we got kicked out before I could get a picture with them.  I did manage to get a picture with John Wesley, however.
+
+![](./2022-7-7/john_wesley.jpeg)
+*John Wesley and me*
+
+![](./2022-7-7/charterhound.jpeg)
+*Stone greyhound carving on the outside of the Charterhouse*
+
+After the Charterhouse we broke off into smaller groups, one of which I nobly led to King's Cross Station.
+
+![](./2022-7-7/kings_cross.jpeg)
+*Outside King's Cross Station*
+
+We of course were there to see Platform 9¾.  I didn't get any pictures once I made it to the platform itself, but I have one of me about to enter.
+
+![](./2022-7-7/platform_9¾.jpeg)
+*Entering Platform 9¾*
+
+We regrouped at an Indian restaurant, Dishoom, for lunch.  We ate family style, but there was a set menu so we didn't have to argue over what to get at all.
+
+In the evening we went to see Agatha Christie's *The Mousetrap* at St. Martin's Theatre by Leicester Square.  I had a 4-pack of butterbeer in my bag from earlier so I had to leave it at the front counter.  The lady checking bags was really nice, but I was embarrassed thinking about how probably thought it was actual beer.  The play itself was really good, and the part where Miss Casewell says the newspaper contains the "usual political crisis" was [particularly relevant today](https://news.sky.com/story/boris-johnson-to-resign-as-prime-minister-12646836) and got an extra good laugh.
+
+![](./2022-7-7/mousetrap.jpeg)
+
+<!-- ![](./2022-7-7/mousetrap_group.jpeg) -->
+
 
 #### Wednesday, July 6
 
@@ -56,6 +100,21 @@ We also found this cool blue box right outside the station on our way back.  It 
 
 ![](./2022-7-6/police_box.jpeg)
 
+> #### MMBIO Writeup:<br>Kew Royal Botanical Gardens
+>
+> **Historical Significance**
+> - Kew holds the largest and one of the oldest collections of fungal specimens in the world.  Many of the specimens are stored alongside the notes of prominent scientists and help us better understand how mycology has developed over time.
+>
+> **Scientific Principles**
+> - *Records, records, records*–The fungarium is an example of how valuable it is to keep records when doing scientific work.  The records of scientists from over a hundred years ago are still being looked over today.  Digitalization of specimens allows data to be organized, processed, and shared in ways that it could not be previously.
+>
+> **Today's Application**
+> - Mycology still has a ton of room to grow.  Only a small percentage of fungi in the world have been identified.  As new fungi are discovered and studied, they likely will have a significant impact on pharmaceuticals and the treatment of disease.
+>
+> **Coolest Parts**
+> - No one has figured out how to culture porcini, so it is only obtainable through foraging.
+> - Endophytes are fungi that live inside nearly every plant.  They have generally have symbiotic relationships with plants, and can help them take in more water and resist pathogens.
+
 
 #### Tuesday, July 5
 
@@ -90,10 +149,96 @@ We finished off the day by stopping to see Big Ben, which is we technically didn
 ![](./2022-7-5/london_eye.jpeg)
 *The London Eye is right across the Thames from the Tower*
 
+> #### MMBIO Writeup:<br>London Museum
+>
+> **Historical Significance**
+> - The skeletons studied here are representative of London's population during different periods of time and help us to better understand what ailments they struggled with.
+>
+> **Scientific Principles**
+> - *Comparative genomics*—by looking at the DNA in the teeth of skeletons found in the plague pit of Smithfield and comparing it to the DNA of *yersinia pestis*, scientists were able to bolster their theory that *y. pestis* was the cause of the black death.
+>
+> **Today's Application**
+> - We are able to learn more about history and disease by studying skeletons.  Hopefully by doing so we can better understand how to protect ourselves from future diseases.
+>
+> **Coolest Part**
+> - Being able to look at and handle multiple skeletons that were extremely old was an incredible experience.  I'm sure it's not the type of thing they let just anyone do and it was amazing to be able to that.
+
 
 #### Monday, July 4
 
-[in progress]
+Happy Fourth of July!  We didn't do much to celebrate today, but I *did* find a peacock feather that I stuck in my hat and promptly called macaroni.
+
+![](./2022-7-4/peacock.jpeg)
+*The peacock that so graciously left a feather behind for me*
+
+Our first stop for the today was the Grant Museum of Zoology, which is a massive collection of about 65,000 specimens (8,000 of those are sets of mouse bones that were collected for a study, with 4,000 of them on display.
+
+![](./2022-7-4/mouse_bones.jpeg)
+*4,000 sets of mouse bones*
+
+The Grant Museum had an incredible variety of specimens.
+
+![](./2022-7-4/elephant_heart.jpeg)
+*Any guesses who this heart once belonged to?*
+
+![](./2022-7-4/microscope_slides.jpeg)
+*Lots and lots of microscope slides*
+
+For lunch we all stopped at a place called Pret, which apparently does have some locations in the US, although it's UK-based.  I got a tomato and Brie sandwich, which was delicious, and a rhubarb lemonade, which I assume is about as close to a hard lemonade as you can get without actually having any alcohol in it—it was really strong.
+
+![](./2022-7-4/rhubarb_lemonade.jpeg)
+*Prêt à Manger (the full name of Pret) is French for "ready to eat"*
+
+After lunch we did a bit of walking to get to the next site, with some cool things along the way.  One street we went down seemed to be all guitar shops.  I can think of at least one family member who would've been in heaven there.
+
+![](./2022-7-4/taylor_guitars.jpeg)
+*The guitar district of London?*
+
+We also saw some cool street art along our walk.
+
+![](./2022-7-4/spaceship.jpeg)
+*"Spaceship!!!"*
+
+Our final destination was the Broad Street Pump, which is where John Snow (no relation to Jon Snow) famously removed the handle of the pump as part of his investigation of the [1854 Broad Street cholera outbreak](https://en.m.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak).
+
+![](./2022-7-4/broadstreet_pump.jpeg)
+*Broad Street pump with the cholera that Dr. Breakwell gave me*
+
+After the pump we broke off into smaller groups.  After going to Carnaby Street and realizing everything felt to expensive for us to even go inside most of the shops, we headed over to the British Museum.
+
+![](./2022-7-4/williams_cousin.jpeg)
+*[William the Hippo](https://www.metmuseum.org/art/collection/search/544227)'s cousin*
+
+![](./2022-7-4/molossian_hound.jpeg)
+*A boy and his Molossian Hound<br>(Don't worry—I'm not actually touching the art)*
+
+For dinner we went to a pub called Pride of Paddington.  The food was good, but my favorite part was seeing all the Paddington Bear sites nearby.
+
+![](./2022-7-4/pride_of_paddington.jpeg)
+*Paddington behind the bar counter of the pub*
+
+![](./2022-7-4/statue_of_paddington.jpeg)
+*Statue of Paddington inside Paddington Station*
+
+![](./2022-7-4/bench_of_paddington.jpeg)
+*Also in Paddington Station*
+
+I think it's safe to say the true pride of Paddington lies in its bear rather than in its pub.
+
+> #### MMBIO Writeup:<br>Grant Museum
+>
+> **Historical Significance**
+> - One of the oldest natural history museums in London
+> - Founded by Edward Grant, one of Charles Darwin's professors
+>
+> **Scientific Principles**
+> - *Comparative anatomy*—comparing the skeletons of different species allows us to see how they evolved from a common ancestor.  A good example of this is the dugong, whose skeleton looks similar enough to humans that it became a source for legends of mermaids.
+>
+> **Today's Application**
+> - The Grant Museum is still used today to teach students around the world.  Third year students are given unlabeled specimens (such as a bone) and have a semester to identify properly identify them.
+>
+> **Coolest Part**
+> - I found it really interesting to see how much variation there was in the skull structure of different breeds of domestic dogs.  In contrast, the skulls of domestic cats, ocelots, and tigers all had nearly the exact same structure, only differing in overall size.
 
 
 #### Sunday, July 3
