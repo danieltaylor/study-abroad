@@ -49,6 +49,12 @@ We of course were there to see Platform 9¾.  I didn't get any pictures once I m
 
 We regrouped at an Indian restaurant, Dishoom, for lunch.  We ate family style, but there was a set menu so we didn't have to argue over what to get at all.
 
+![](./2022-7-7/dishoom_group.jpeg)
+*Group lunch at Dishoom*
+
+![](./2022-7-7/dishoom_menu.jpeg)
+*What we ate*
+
 In the evening we went to see Agatha Christie's *The Mousetrap* at St. Martin's Theatre by Leicester Square.  I had a 4-pack of butterbeer in my bag from earlier so I had to leave it at the front counter.  The lady checking bags was really nice, but I was embarrassed thinking about how probably thought it was actual beer.  The play itself was really good, and the part where Miss Casewell says the newspaper contains the "usual political crisis" was [particularly relevant today](https://news.sky.com/story/boris-johnson-to-resign-as-prime-minister-12646836) and got an extra good laugh.
 
 ![](./2022-7-7/mousetrap.jpeg)
