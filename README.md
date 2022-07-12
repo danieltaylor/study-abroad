@@ -1,10 +1,11 @@
 ## Travel Map
 
-<img src="./map1.png" style="max-height: 90vh">
+<img src="./map1.png" style="max-height: 200px">
 
 
 ## Contents
-- [London](#london)
+- **[London](#london)**
+	- [Friday, July 8](#thursday-july-7)
 	- [Thursday, July 7](#thursday-july-7)
 	- [Wednesday, July 6](#wednesday-july-6)
 	- [Tuesday, July 5](#tuesday-july-5)
@@ -15,7 +16,84 @@
 
 ## London
 
-#### Thursday, July 7
+### Friday, July 8
+
+Today we went to the Natural History Museum and the Science Museum.  They're right next to each other, as well as right by the church building that we meet at.  We only had time for the dinosaur exhibit before we had to head to the Science Museum, but it was really interesting.  Apparently MacKayla is an expert in dinosaurs, so she made an excellent tour guide.
+
+<img src="./2022-7-8/pachy_skull.jpeg" style="max-height: 90vh"><br>
+*An impressive cast of a pachycephalosaurus skull*
+
+<img src="./2022-7-8/apatosaurus_leg.jpeg" style="max-height: 90vh"><br>
+*An apatosaurus leg bone (right)*
+
+<img src="./2022-7-8/roar.png" style="max-height: 90vh"><br>
+*MacKayla and I doing our best dinosaur impressions*
+
+At the Science Museum, we went to look at the double helix model as a group, and Dr. Johnson gave us a mini-lecture on how the structure of DNA was discovered.  More on that in my MMBIO writeup at the bottom for today.
+
+<img src="./2022-7-8/double_helix.jpeg" style="max-height: 90vh"><br>
+*Replica of Watson and Crick's double helix model that we had a lecture next to.  There was another one that looked exactly like it in a gallery downstairs, and funny enough, I think that is the one that actually included the original metal plates from W&C's model.*
+
+The whole medical exhibit was really cool, but really gross too.  There was a wax model of a partially dissected human body, and I have to say, it was probably more difficult to look at than the *actual* human bodies that I saw at the California Science Center one time.  That being said, I've included it below for the sake of science.
+
+<img src="./2022-7-8/gross.jpeg" style="max-height: 90vh"><br>
+*Definitely the most lifelike anatomical model I've ever seen...*
+
+One of the parts I enjoyed that wasn't gross was seeing some of the old fashioned medical equipment.  I was admiring a diagram for a wrist-mounted heart rate monitor when Dallin pointed out, "You're wearing one right now" in reference to my Apple Watch.
+
+<img src="./2022-7-8/sphymograph.jpeg" style="max-height: 90vh"><br>
+*An early heart rate monitor*
+
+Another cool piece of equipment we saw was one of the first ECG machines.  I have one of those on my wrist too!
+
+<img src="./2022-7-8/ecg.jpeg" style="max-height: 90vh"><br>
+*A size comparison of two ECG machines*
+
+The Science Museum wasn't just medical science.  We also looked at the exhibits on the Information Age, mathematics, and space.
+
+<img src="./2022-7-8/google_server.jpeg" style="max-height: 90vh"><br>
+*One of Google's original servers in the Information Age exhibit*
+
+The mathematics exhibit was a lot more interesting than it might sound at first.  They had a small section on cryptography that I really liked, as well as a really interesting section on statistical visualizations, including the work of Florence Nightingale in making medical statistics more accessible.
+
+<img src="./2022-7-8/enigma.jpeg" style="max-height: 90vh"><br>
+*A German Enigma machine in the cryptography section of the "maths" exhibit*
+
+These last two displays were right across from each other in the "Making the Modern World" gallery:
+
+<img src="./2022-7-8/apollo_10_command.jpeg" style="max-height: 90vh"><br>
+*The command module from Apollo 10*
+
+<img src="./2022-7-8/apple_i.jpeg" style="max-height: 90vh"><br>
+*The Apple I, predecessor to all Apple products*
+
+As I mentioned at the beginning, the church building is really close by the museums, so after grabbing a quick dinner we headed over to the church for an organ concert that was going on.  The Hyde Park building organ is already [very impressive on its own](https://media-cdn.tripadvisor.com/media/photo-s/14/6c/76/a0/pipe-organ-in-hyde-park.jpg), but we were lucky enough to hear Dr. Richard Elliot (Principal Organist for the Tabernacle Choir at Temple Square) perform on it.  He was of course, very talented, and I particularly enjoyed a part where he played very quickly on only the foot pedals.  [Here's the program](./2022-7-8/concert_program.pdf) if anyone is interested in seeing what was performed or learning more about Dr. Elliot.
+
+<img src="./2022-7-8/organ_concert.jpeg" style="max-height: 90vh"><br>
+*In case it's not obvious, Dr. Elliot is the only one wearing a tie*
+
+On the way back after the concert we heard some music of a *different* style, which ended up being a Pearl Jam concert in Hyde Park.  We decided to take a detour, and ended up getting pretty close to where they were playing.  I'll link a [video here](./2022-7-8/pearl_jam.mov).  If you listen closely, you'll also hear the sound of people listening to trap music.  Why anyone would do that when they could be listening to Pearl Jam performing live is beyond me.
+
+<img src="./2022-7-8/sunset.jpeg" style="max-height: 90vh"><br>
+*We also got a lovely view of the sunset on our way over to Hyde Park*
+
+> #### MMBIO Writeup:<br>Double Helix at the Science Museum
+>
+> **Historical Significance**
+> - The discovery of the double helix was a huge advancement in our understanding of DNA.  DNA was discovered in 1869, but it wasn't until 1953 that Watson and Crick published their findings on the double helix structure.
+>
+> **Scientific Principles**
+> - *beware of pride*—Another scientist named Linus Pauling ended up snubbing the work of a Erwin Chargaff because he found him annoying.  As it turned out, Chargaff's Rule (see "Coolest Part") was a key piece of information that could have led Pauling to discover the double helix structure first, had his arrogance not caused him to overlook Chargaff.
+>
+> **Today's Application**
+> - One of the last lines in [Watson and Crick's paper](https://ui.adsabs.harvard.edu/link_gateway/1953Natur.171..737W/doi:10.1038/171737a0) states, "It has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material."  Their findings opened the doorway for our understanding of how DNA is replicated and much, much more.
+>
+> **Coolest Part**
+> - Part of how the double helix structure was discovered was through a statistical analysis of the the nucleobases in DNA.  Adenine and thymine always match up in percentages, as do cytosine and guanine (e.g. 30% adenine, 30% thymine, 20% cytosine, 20% guanine).  These correlations supported the idea of base pairings, which supported the idea of the double helix.
+
+
+
+### Thursday, July 7
 
 Today we went on a walking tour around London led by Dr. Breakwell.  We stopped by lots of different sites, including the first public drinking fountain, St. Bartholomew's Hospital, and St. John's Ambulance.
 
@@ -63,7 +141,7 @@ In the evening we went to see Agatha Christie's *The Mousetrap* at St. Martin's 
 <!-- <img src="./2022-7-7/mousetrap_group.jpeg" style="max-height: 90vh"><br> -->
 
 
-#### Wednesday, July 6
+### Wednesday, July 6
 
 Today we spent most of the day at Kew Royal Botanical Gardens.  We started off with a tour of the fungarium, where they store over 1.25 million specimens of fungi!
 
@@ -123,7 +201,7 @@ We also found this cool blue box right outside the station on our way back.  It 
 > - Endophytes are fungi that live inside nearly every plant.  They have generally have symbiotic relationships with plants, and can help them take in more water and resist pathogens.
 
 
-#### Tuesday, July 5
+### Tuesday, July 5
 
 We started off the day by going to the Museum of London where we had a lecture on osteoarcheology.  Essentially it was about how we can look at bones that have been dug up and learn about civilizations, and the diseases people were affected by in particular.  We got to see and handle a TON of really old (~700 years) bones, which was super interesting!  We were asked not to post them online, but I figure I can just post this one and it will be okay.
 
@@ -171,7 +249,7 @@ We finished off the day by stopping to see Big Ben, which is we technically didn
 > - Being able to look at and handle multiple skeletons that were extremely old was an incredible experience.  I'm sure it's not the type of thing they let just anyone do and it was amazing to be able to that.
 
 
-#### Monday, July 4
+### Monday, July 4
 
 Happy Fourth of July!  We didn't do much to celebrate today, but I *did* find a peacock feather that I stuck in my hat and promptly called macaroni.
 
@@ -248,7 +326,7 @@ I think it's safe to say the true pride of Paddington lies in its bear rather th
 > - I found it really interesting to see how much variation there was in the skull structure of different breeds of domestic dogs.  In contrast, the skulls of domestic cats, ocelots, and tigers all had nearly the exact same structure, only differing in overall size.
 
 
-#### Sunday, July 3
+### Sunday, July 3
 
 Today we attended sacrament meeting at the Hyde Park Ward.  The building they meet in is super interesting; it functions as a meetinghouse, a visitors' center, a mission office, etc., etc.
 
@@ -280,7 +358,7 @@ Overall the tennis games were really fun to watch, and certainly beat all the wa
 <img src="./2022-7-3/wimbledon_group.jpeg" style="max-height: 90vh"><br>
 
 
-#### Saturday, July 2
+### Saturday, July 2
 
 This morning (or at least what feels like this morning), I took the train up to the SLC airport where I met up with another girl in my group.  From SLC we had a layover in LAX, and then a long flight to the London Heathrow Airport.  All of our attendants on the second flight had interesting accents.  Once we made it to the airport, we met up with another girl in our group and took the underground to Earl's Court Station.  It was a long, fairly boring, and crowded ride with about 15 stops along the way.  From there, we walked about a mile to get to our hostel, arriving around 3:30 pm.  We were surprised at how many stairs there were coming out of the metro station, which probably wouldn't have been something we would have noticed had we not had our suitcases with us.  After making it to the hostel, we met up with some more of our group—including Dr. Breakwell and his wife—and went out to get food and take a brief walk by Kensington Palace.
 
