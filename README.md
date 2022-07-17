@@ -5,16 +5,150 @@
 
 ## Contents
 - **[London](#london)**
-	- [Friday, July 8](#thursday-july-7)
-	- [Thursday, July 7](#thursday-july-7)
-	- [Wednesday, July 6](#wednesday-july-6)
-	- [Tuesday, July 5](#tuesday-july-5)
-	- [Monday, July 4](#monday-july-4)
-	- [Sunday, July 3](#sunday-july-3)
-	- [Saturday, July 2](#saturday-july-2)
+	- [Sunday, July 10](#sunday-july-10)
+	- [Saturday, July 9](#saturday-july-9)
+	- [Friday, July 8](#friday-july-8) - Natural History and Science Museum
+	- [Thursday, July 7](#thursday-july-7) - King's Cross and The Mousetrap
+	- [Wednesday, July 6](#wednesday-july-6) - Kew Royal Botanical Gardens
+	- [Tuesday, July 5](#tuesday-july-5) - London Museum
+	- [Monday, July 4](#monday-july-4) - Grant Museum and Paddington
+	- [Sunday, July 3](#sunday-july-3) - Wimbledon
+	- [Saturday, July 2](#saturday-july-2) - Kensington Palace
 
 
 ## London
+
+### Sunday, July 10
+
+After church this morning we went over to the Victoria and Albert Museum.  I'm not actually sure what it's a museum of specifically, because it felt like they had everything, but I suppose it would be considered an art museum at the very least.  The hall of statues seemed very familiar, and considering how close it is to the church, I'm willing to bet I've been in that same room before.
+
+<img src="./2022-7-10/crouching_venus.jpeg" style="max-height: 90vh"><br>
+*Crouching Venus—a very similar statue is found in the British Museum*
+
+<img src="./2022-7-10/diana_the_huntress.jpeg" style="max-height: 90vh"><br>
+*Diana the Huntress*
+
+<img src="./2022-7-10/medieval_tunic.jpeg" style="max-height: 90vh"><br>
+*Not really sure how to work this photo in, but it's me in a medieval tunic*
+
+One section of the museum was dedicated to copies of paintings and casts of statues.  Even though they weren't the originals, the replicas were still really impressive!
+
+<img src="./2022-7-10/trajans_column.jpeg" style="max-height: 90vh"><br>
+*Trajan's Column, a monument in Rome commemorating Trajan's victory in the Dacian war campaigns*
+
+<img src="./2022-7-10/school_of_athens.jpeg" style="max-height: 90vh"><br>
+*The School of Athens*
+
+Another fun section was the jewelry exhibit.  There was a huge range of pieces, including some peculiar ones.
+
+<img src="./2022-7-10/chatelaine.jpeg" style="max-height: 90vh"><br>
+*This chatelaine is essentially a utility belt for homemaking.  Attached are a knife, lighter, scissors, and a key, among other items.*
+
+<img src="./2022-7-10/jade_snail.jpeg" style="max-height: 90vh"><br>
+*Jade snail*
+
+The religion section was really interesting as well.  We were mostly just passing through to get to another exhibit, but a couple of things caught my eye.
+
+<img src="./2022-7-10/communion_tray.jpeg" style="max-height: 90vh"><br>
+*"Many Noncomformist communities use individual communion cups."  Seem familiar?*
+
+<img src="./2022-7-10/icthys_font.jpeg" style="max-height: 90vh"><br>
+*The surface of this piece was so smooth it was almost impossible to tell it was flat on top (besides the divet in the middle).  The plaque had its own explanation, but for me the fish are reminiscent of the miracle of the fish and loaves and when Christ called His disciples to be fishers of men.*
+
+The exhibit that we were on our way to was the design exhibit.  It had a whole variety of different things, but I really liked the section they had on data privacy.
+
+<img src="./2022-7-10/snowden_laptop.jpeg" style="max-height: 90vh"><br>
+*This laptop held top-secret files leaked to The Guardian by Edward Snowden.  It was destroyed in such a way that the files would be irrecoverable when handed over to the UK government.*
+
+After visiting the V&A, we stopped at the Natural History for probably about an hour.  We went looking for a bear, but they were doing a lot of work on the mammal section, so we were unable to find one.
+
+Afterwards we headed over to the Globe Theatre to see a production of King Lear.  We bought the standing tickets because they were super cheap, but I definitely had to sit on the ground a few times.  Standing for three hours is bad enough as it is, but it's even worse when you've been averaging seven miles of walking a day.
+
+<img src="./2022-7-10/the_globe.jpeg" style="max-height: 90vh"><br>
+*View from standing in the Globe Theatre*
+
+The portrayal was really well done, but the combination of being tired of standing, strong accents, and old fashioned English made it a bit hard to follow.  It also didn't help that a few of the characters were played by the same actors.  With pretty much every Shakespeare play involving someone in disguise, it was hard to tell who was in disguise and who was genuinely a different character.
+
+<img src="./2022-7-10/globe_group.jpeg" style="max-height: 90vh"><br>
+*King Lear group*
+
+<img src="./2022-7-10/elizabeth_i_costume.jpeg" style="max-height: 90vh"><br>
+*Queen Elizabeth I costume from the Globe's Royal Gala Opening in 1997*
+
+The Globe is right next to the Thames, and the view of the city as we were leaving was beautiful.
+
+<img src="./2022-7-10/city_view.jpeg" style="max-height: 90vh"><br>
+*View of London from outside the Globe*
+
+
+### Saturday, July 9
+
+This morning we went to the Tower of London.  What stood out to me the most was seeing the part of the wall in the White Tower where what are presumed to be the skeletons of the two missing (probably murdered) princes were found.  I remembered that story and could even visualize the location from the other time I visited the tower 19 years ago.
+
+The White Tower had a ton of other cool stuff as well, including a huge armoury display, the Chapel of St. John, and a dragon!
+
+<img src="./2022-7-9/giants_armour.jpeg" style="max-height: 90vh"><br>
+*Trying to imitate the "giant's armour"*
+
+<img src="./2022-7-9/stained_glass.jpeg" style="max-height: 90vh"><br>
+*Stained glass in the Chapel of St. John*
+
+<img src="./2022-7-9/dragon.jpeg" style="max-height: 90vh"><br>
+*I should have grabbed a sword from the armoury while I had the chance!*
+
+In addition to the White Tower, we also got to see the crown jewels (another thing I remember from my previous visit), but pictures weren't allowed.  The other thing that really stuck out was learning about the different animals at the Tower.  The Tower is most known for its ravens, but it also was home to other exotic animals, including a polar bear that was gifted to Henry III by the King of Norway.  I have to wonder if that was an awkward exchange at all, as may occur when one buys their significant other a pet that they did not want or are unable to care for.
+
+<img src="./2022-7-9/raven.jpeg" style="max-height: 90vh"><br>
+*One of the ravens and its ball.  I thought it was cute that it had a ball, especially since I don't typically think of ravens as being "playful"*
+
+<img src="./2022-7-9/polar_bear.jpeg" style="max-height: 90vh"><br>
+*Polar bear and a very small raven*
+
+After the Tower of London a couple of us went to see [2:22: A Ghost Story](https://222aghoststory.com) at the Criterion Theatre.  We went at the recommendation of some others in our group who had seen it the previous night, and also managed to get a photo with Tom Felton, who plays one of the leads.
+
+<img src="./2022-7-9/222_marquee.jpeg" style="max-height: 90vh"><br>
+*Outside Criterion Theatre*
+
+The show was fantastic, and I really liked how detailed the set was.  Sometimes sets can be a little bare-bones, especially when there are lots of transitions in a play, but this one seemed very complete, down to all the different things on the kitchen counter.
+
+<img src="./2022-7-9/222_stage.jpeg" style="max-height: 90vh"><br>
+*I really liked the set*
+
+I won't say too much about the play itself, other than that it was scary, which made it very fun.  I'll be keeping an eye out to see if it ends up coming to the States at some point.
+
+<img src="./2022-7-9/tom_felton_poster.jpeg" style="max-height: 90vh"><br>
+*Tom Felton!  (Draco Malfoy for those who don't recognize him)*
+
+Unfortunately Tom Felton didn't come out for photos or signing after the performance we went to, but I did manage to get the signatures of two of the other actors, Beatriz Romilly and Sam Swainsbury.  They were both in a little bit of a rush but very nice nonetheless.  Beatriz told me to "enjoy the sunshine."
+
+<img src="./2022-7-9/criterion_stage_door.jpeg" style="max-height: 90vh"><br>
+*The door where Tom Felton would have come out of*
+
+After waiting around in vain for Tom, MacKayla and I went to Honest Burgers for dinner, where we split the [monthly](https://www.honestburgers.co.uk/food/burgers/morocco/) and [local](https://www.honestburgers.co.uk/food/burgers/brewer-st/) specials half and half.
+
+<img src="./2022-7-9/honest_burgers.jpeg" style="max-height: 90vh"><br>
+*Half a Morocco and half a Brewer St. from Honest Burgers*
+
+After dinner took a bus up to Abbey Road.  We walked across the Abbey Road crosswalk for the experience first, with plans to come back for photos, and then went into the Abbey Road Studios shop.  They definitely did have a lot of Beatles stuff, but I was surprised they didn't lean into it more.  There were a lot of items that were just Abbey Road Studios themed, as well as smaller selections of items for other artists they had recorded, such as Pink Floyd.
+
+One of the items they had was based on the iconic ["John & Paul & Ringo & George" design](https://fontsinuse.com/uses/29936/john-and-paul-and-ringo-and-george-and-and-an), which happened to go along with the shirt I was wearing at the time.
+
+<img src="./2022-7-9/&&&.jpeg" style="max-height: 90vh"><br>
+*The mug isn't quite the same as the famous design, but it seems intentionally close*
+
+After visiting the shop, we wrote our names on their wall (intended for that) outside and took the obligatory photos.
+
+<img src="./2022-7-9/crossing_abbey_road.jpeg" style="max-height: 90vh"><br>
+*Haters will say this isn't real*
+
+<img src="./2022-7-9/abbey_road_sign.jpeg" style="max-height: 90vh"><br>
+*The only Abbey Road sign that we could find that wasn't way too high to reach.  I'm guessing the took down the reachable ones near the crossing due to all the vandalism.*
+
+On the way back to the underground, I spotted a sign for a street called Violet Hill, which is the name of a [song by Coldplay](https://songwhip.com/coldplay/violet-hill) and happens to be one of my favorites of theirs.  I looked it up, and sure enough, Wikipedia confirmed that the song "derives its title from a street of the same name near Abbey Road."
+
+<img src="./2022-7-9/violet_hill.jpeg" style="max-height: 90vh"><br>
+*Violet Hill*
+
 
 ### Friday, July 8
 
