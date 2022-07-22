@@ -55,7 +55,7 @@ After the Whipple Museum, we took a bus over to the Addenbrook's Hospital, where
 <img src="./2022-7-12/ampersand.jpeg" style="max-height: 90vh"><br>
 *Ampersand statue outside the LMB.  Not really sure what it's supposed to mean, but the colors remind me of a DNA sequence*
 
-Right across from the LMB is the AstraZeneca building.  We didn't get to go inside, but it was still cool to see the headquarters of a company that came into the world spotlight fairly recently.
+Right across from the LMB is the AstraZeneca building.  We didn't get to go inside, but it was still cool to see the headquarters of a company that came into the world spotlight so fairly.
 
 <img src="./2022-7-12/astrazeneca.jpeg" style="max-height: 90vh"><br>
 *AstraZeneca building*
@@ -65,7 +65,7 @@ Before heading back to our rooms for the evening, we walked by Newton's Apple Tr
 <img src="./2022-7-12/son_of_newtons_apple_tree.jpeg" style="max-height: 90vh"><br>
 *Son of Newton's Apple Tree*
 
-Most places closed around 5 (other than the pubs of course, where I imagine things were just getting started), so even by the time we made it back to Westminster I still had a few hours to spare.  Just getting to relax in my room for myself for a few hours was probably one of my favorite parts of this trip so far.  I took a shower, worked on catching up on some travel entries, and called my sister over FaceTime.  It's unfortunate that we're only staying in Cambridge for two nights, but if we're lucky maybe we will get to have rooms like this again.
+Most places closed around 5 (other than the pubs of course, where I imagine things were just getting started), so even by the time we made it back to Westminster I still had a few hours to spare.  Just getting to relax in my room by myself for a few hours was probably one of my favorite parts of this trip so far.  I took a shower, worked on catching up on some travel entries, and called my sister over FaceTime.  It's unfortunate that we're only staying in Cambridge for two nights, but if we're lucky maybe we'll get to have rooms like this again.
 
 > #### MMBIO Writeup:<br>Whipple Museum
 >
@@ -100,7 +100,7 @@ After the changing of the guard we went to the Imperial War Museum.  I'm not exa
 *Outside the Imperial War Museum*
 
 <img src="./2022-7-11/tv_press.jpeg" style="max-height: 90vh"><br>
-*Land Rover used in Gaza - [museum link](https://www.iwm.org.uk/collections/item/object/70000517)*
+*Land Rover used in Gaza - [more info](https://www.iwm.org.uk/collections/item/object/70000517)*
 
 <img src="./2022-7-11/zero.jpeg" style="max-height: 90vh"><br>
 *A Japanese Zero that was discovered 50 years after the war*
@@ -108,7 +108,7 @@ After the changing of the guard we went to the Imperial War Museum.  I'm not exa
 I spent most of my time in their exhibit on the Holocaust.  I thought the exhibit was laid out really well.  It started off with some historical background and introduced a ton of individuals who would have been affected by the Holocaust.  The exhibit really helped me get to know those people by teaching me about their lives, their families, and their interests.  It helped me feel close to them and really comprehend that the victims of the Holocaust  were real people with lives just like my own and those of my friends and family.
 
 <img src="./2022-7-11/siblings_with_cat.jpeg" style="max-height: 90vh"><br>
-*"Siblings Rutgh and Klaus Boronow with their cat Toswitha at home in Breslau, Germany."*
+*"Siblings Ruth and Klaus Boronow with their cat Roswitha at home in Breslau, Germany."*
 
 The exhibit also of course taught about Hitler and his followers.  I think one of the most sickening parts of it all is recognizing that the Nazis were people as well and that they too had lives and families and interests.  It's easy to just blame everything on Hitler, but when you start to recognize how many other individuals were complicit in everything that happened, it's terrifying.  It's terrifying that one person could do such awful things, and it's even more terrifying that a whole bunch of people—many who would otherwise seem just like you and I—could do those things.
 
@@ -120,7 +120,7 @@ Another difficult part was learning about how many children had to be separated 
 <img src="./2022-7-11/cat_puppet.jpeg" style="max-height: 90vh"><br>
 *"Steffi Leyser's father gave her this wallet for her travel documents.  He had received it as a boy as a gift for his bar mitzvah.  Steffi's favorite uncle gave her this puppet, which was one of the few items she was allowed to choose and pack for herself."*
 
-Seeing the Holocaust was really powerful.  Lots of museums do a great job of showing off planes and tanks and guns, but they often are limited in how they acknowledge the costs that lie behind those things.  The Holocaust exhibit was a reminder of the cost of war, as well as a reminder of why we must choose to fight at times.
+Seeing the Holocaust exhibit was really powerful.  Lots of museums do a great job of showing off planes and tanks and guns, but they often are limited in how they acknowledge the costs that lie behind those things.  The Holocaust exhibit was a reminder of the cost of war, as well as a reminder of why we must choose to fight at times.
 
 After our visit to the Imperial War Museum I split off with Dallin and MacKayla to go to Westminster Abbey.
 
@@ -138,6 +138,7 @@ The inside of the Abbey was beautiful.  Below is the view of where we came in on
 A ton of important people are buried at Westminster Abbey, including scientists, royalty, and writers.  It also turns out they have a grave of an unkown soldier of their own, just like the one in D.C. that I was talking about.  It's the only grave that you aren't allowed to walk on in the Abbey.
 
 <img src="./2022-7-11/unknown_warrior.jpeg" style="max-height: 90vh"><br>
+*Grave of the Unknown Warrior*
 
 Among the graves of scientists were Sir Isaac Newton, Charles Darwin, Michael Farraday, James Watt, and most recently, Stephen Hawking.
 
@@ -173,7 +174,7 @@ The part of Westminster that I was most excited to see was Poet's Corner.  Poet'
 *Poet's Corner graves*
 
 <img src="./2022-7-11/poets_corner_memorials.jpeg" style="max-height: 90vh"><br>
-*Memorials to various writers including Shakespeare at the center with plaques for Jane Austen and the Bronte sisters on either side*
+*Memorials to various writers, including Shakespeare at the center with plaques for Jane Austen and the Bronte sisters on either side*
 
 <img src="./2022-7-11/kipling.jpeg" style="max-height: 90vh"><br>
 *I know my grandpa is a huge fan of Kipling, so I made sure to get a picture by his grave specifically.  To the left is the grave of Charles Dickens, and above that is George Handel's*
