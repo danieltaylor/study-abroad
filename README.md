@@ -1,12 +1,15 @@
 ## Travel Map
 
-<img src="./map1.png" style="max-height: 200px">
+<img src="./map.png" style="max-height: 400px">
 
 
 ## Contents
+- **[Cambridge](#cambridge)**
+	- [Tuesday, July 12](#tuesday-july-12)
 - **[London](#london)**
+	- [Monday, July 11](#monday-july-11)
 	- [Sunday, July 10](#sunday-july-10)
-	- [Saturday, July 9](#saturday-july-9)
+	- [Saturday, July 9](#saturday-july-9) - Tower of London and Abbey Road
 	- [Friday, July 8](#friday-july-8) - Natural History and Science Museum
 	- [Thursday, July 7](#thursday-july-7) - King's Cross and The Mousetrap
 	- [Wednesday, July 6](#wednesday-july-6) - Kew Royal Botanical Gardens
@@ -16,7 +19,200 @@
 	- [Saturday, July 2](#saturday-july-2) - Kensington Palace
 
 
+## Cambridge
+
+### Tuesday, July 12
+
+Today we took a charter bus to Cambridge.  The bus ride was nice, and I got MacKayla to watch *The Imitation Game* with me during the trip, on the condition that I will watch *Hidden Figures* with her.  I think all the time we spent at the Science Museum on [Friday](#friday-july-8) might have had some influence on that agreement.
+
+All of the guys in our group are staying at Westminster College, and **wow** the rooms are nice.  We each get a room to ourselves, complete with connected bathrooms and kitchen areas.  This is especially wonderful compared to having 9 to a room and sharing the bathrooms with the girls, as was the case in London.
+
+<img src="./2022-7-12/westminster_college.jpeg" style="max-height: 90vh"><br>
+*Westminster College*
+
+<img src="./2022-7-12/westminster_room.jpeg" style="max-height: 90vh"><br>
+*Room at Westminster College*
+
+After dropping our things off in our rooms, we all headed over to the Whipple Museum of the History of Science.  The museum wasn't very large, but they did have a huge range of items—primarily tools that would have been used for scientific study or teaching.
+
+<img src="./2022-7-12/glass_fungi.jpeg" style="max-height: 90vh"><br>
+*Glass models of fungi*
+
+<img src="./2022-7-12/darwins_microscope.jpeg" style="max-height: 90vh"><br>
+*"Darwin's main research instrument from its purchased in 1847 to his death in 1882"*
+
+After the Whipple Museum, we took a bus over to the Addenbrook's Hospital, where a BYU alum named John showed us around.  John is doing research on brain tumors, so we got to see the lab where he does most of his work, and then he also took us over to see the Laboratory of Molecular Biology.  The LMB has been home to the work of 12 different Nobel Prize laureates.
+
+<img src="./2022-7-12/lmb_group.jpeg" style="max-height: 90vh"><br>
+*Outside the LMB*
+
+<img src="./2022-7-12/nobel_prize.jpeg" style="max-height: 90vh"><br>
+*John Kendrew's Nobel Prize for Chemistry*
+
+<img src="./2022-7-12/fortran.jpeg" style="max-height: 90vh"><br>
+*Printout of a map of human deoxyhaemoglobin generated on a computer using the FORTRAN programming language*
+
+<img src="./2022-7-12/ampersand.jpeg" style="max-height: 90vh"><br>
+*Ampersand statue outside the LMB.  Not really sure what it's supposed to mean, but the colors remind me of a DNA sequence*
+
+Right across from the LMB is the AstraZeneca building.  We didn't get to go inside, but it was still cool to see the headquarters of a company that came into the world spotlight fairly recently.
+
+<img src="./2022-7-12/astrazeneca.jpeg" style="max-height: 90vh"><br>
+*AstraZeneca building*
+
+Before heading back to our rooms for the evening, we walked by Newton's Apple Tree, or more accurately, Son of Newton's Apple Tree, since it was grafted from the apple tree that stood outside Sir Isaac Newton's home.
+
+<img src="./2022-7-12/son_of_newtons_apple_tree.jpeg" style="max-height: 90vh"><br>
+*Son of Newton's Apple Tree*
+
+Most places closed around 5 (other than the pubs of course, where I imagine things were just getting started), so even by the time we made it back to Westminster I still had a few hours to spare.  Just getting to relax in my room for myself for a few hours was probably one of my favorite parts of this trip so far.  I took a shower, worked on catching up on some travel entries, and called my sister over FaceTime.  It's unfortunate that we're only staying in Cambridge for two nights, but if we're lucky maybe we will get to have rooms like this again.
+
+> #### MMBIO Writeup:<br>Whipple Museum
+>
+> **Historical Significance**
+> - The Whipple Museum houses scientific tools and materials that date back multiple centuries.  Seeing these items helps us to better understand how science has been carried out and developed over time.  Science is all about discovery, and building upon the discoveries of the past is how we come to discover more and more.
+>
+> **Scientific Principles**
+> - *Improvement*—all of the scientific discoveries—and tools that allowed those discoveries—displayed in the Whipple Museum were a result of people choosing not to be satisfied with the status quo.  By taking what we already have, whether that be knowledge or an instrument, and working to improve upon it, science progresses.
+>
+> **Today's Application**
+> - Understanding the history of science helps us to build the foundational knowledge that is needed to make new discoveries.  History also provides us with successful examples of using the scientific method, which can help us to develop frameworks for modern experiments.
+>
+> **Coolest Parts**
+> - On a shelf in the museum were a variety of case studies written by professors, curators, and students.  It was fun to see how someone's research can end up being somewhere really interesting for all to read, rather than just being lost to the depths of the internet.  Some of the case studies can be found [here](https://doi.org/10.1017/9781108633628).
+
+
 ## London
+
+### Monday, July 11
+
+We started off today by going to the changing of the guard at Buckingham Palace.  It was a bit disappointing, not because of anything wrong with the way it was carried out, but simply because there were so many people it was impossible to see much.  I remember seeing the changing of the guard at the Tomb of the Unknown Soldier in Washington, D.C. a few years ago, so I was hoping for an experience something like that.  I think I felt like the one at Buckingham was more for show, whereas the one in D.C. felt more purely out of respect for who they were guarding.  I'm sure each have some elements of both show and respect though.
+
+<img src="./2022-7-11/marching.jpeg" style="max-height: 90vh"><br>
+*Procession for the changing of the guard*
+
+<img src="./2022-7-11/gate_view.jpeg" style="max-height: 90vh"><br>
+*This was about the best I could see as far as what was actually happening within the gates of Buckingham Palace goes*
+
+After the changing of the guard we went to the Imperial War Museum.  I'm not exactly sure what they mean by "Imperial" in the name, but the museum covered multiple wars, including World War I and II.
+
+<img src="./2022-7-11/iwm.jpeg" style="max-height: 90vh"><br>
+*Outside the Imperial War Museum*
+
+<img src="./2022-7-11/tv_press.jpeg" style="max-height: 90vh"><br>
+*Land Rover used in Gaza - [museum link](https://www.iwm.org.uk/collections/item/object/70000517)*
+
+<img src="./2022-7-11/zero.jpeg" style="max-height: 90vh"><br>
+*A Japanese Zero that was discovered 50 years after the war*
+
+I spent most of my time in their exhibit on the Holocaust.  I thought the exhibit was laid out really well.  It started off with some historical background and introduced a ton of individuals who would have been affected by the Holocaust.  The exhibit really helped me get to know those people by teaching me about their lives, their families, and their interests.  It helped me feel close to them and really comprehend that the victims of the Holocaust  were real people with lives just like my own and those of my friends and family.
+
+<img src="./2022-7-11/siblings_with_cat.jpeg" style="max-height: 90vh"><br>
+*"Siblings Rutgh and Klaus Boronow with their cat Toswitha at home in Breslau, Germany."*
+
+The exhibit also of course taught about Hitler and his followers.  I think one of the most sickening parts of it all is recognizing that the Nazis were people as well and that they too had lives and families and interests.  It's easy to just blame everything on Hitler, but when you start to recognize how many other individuals were complicit in everything that happened, it's terrifying.  It's terrifying that one person could do such awful things, and it's even more terrifying that a whole bunch of people—many who would otherwise seem just like you and I—could do those things.
+
+<img src="./2022-7-11/menorah.jpeg" style="max-height: 90vh"><br>
+*"In this photograph, a hanukkiah holding candles for the Jewish festival of Hanukkah sits in the home of Rabbi Dr Akiva Posner and his wife Rachel.  On the back of the image Rachel Wrote, 'Hanukkah 5692 (1932). The flag says, "Death to Judah".  The light answers, "Judah will live forever".'"*
+
+Another difficult part was learning about how many children had to be separated from their families in order to find safety.  The part of the exhibit on that included many of the possessions of those children, along with their stories.  I admire the bravery and love of both the parents and children who had to go through that and the countless other challenges of that time.  And I'm grateful for my own family and the great love I know they have for me.
+
+<img src="./2022-7-11/cat_puppet.jpeg" style="max-height: 90vh"><br>
+*"Steffi Leyser's father gave her this wallet for her travel documents.  He had received it as a boy as a gift for his bar mitzvah.  Steffi's favorite uncle gave her this puppet, which was one of the few items she was allowed to choose and pack for herself."*
+
+Seeing the Holocaust was really powerful.  Lots of museums do a great job of showing off planes and tanks and guns, but they often are limited in how they acknowledge the costs that lie behind those things.  The Holocaust exhibit was a reminder of the cost of war, as well as a reminder of why we must choose to fight at times.
+
+After our visit to the Imperial War Museum I split off with Dallin and MacKayla to go to Westminster Abbey.
+
+<img src="./2022-7-11/westminster_abbey.jpeg" style="max-height: 90vh"><br>
+*Westminster Abbey*
+
+<img src="./2022-7-11/westminster_selfie.jpeg" style="max-height: 90vh"><br>
+*Me, Dallin, and MacKayla outside Westminster Abbey*
+
+The inside of the Abbey was beautiful.  Below is the view of where we came in once they had started clearing people out and getting ready for evensong.
+
+<img src="./2022-7-11/window.jpeg" style="max-height: 90vh"><br>
+*Inside the Abbey*
+
+A ton of important people are buried at Westminster Abbey, including scientists, royalty, and writers.  It also turns out they have a grave of an unkown soldier of their own, just like the one in D.C. that I was talking about.  It's the only grave that you aren't allowed to walk on in the Abbey.
+
+<img src="./2022-7-11/unknown_warrior.jpeg" style="max-height: 90vh"><br>
+
+Among the graves of scientists were Sir Isaac Newton, Charles Darwin, Michael Farraday, James Watt, and most recently, Stephen Hawking.
+
+<img src="./2022-7-11/hawking.jpeg" style="max-height: 90vh"><br>
+*Stephen Hawking's grave*
+
+Nearby is what I thought was a grave, but it turned out to be just a memorial.  A lot of the memorials were on the walls rather than the floor, so I imagine it's significant that this one was allowed to take up precious floor space where someone else could have otherwise been buried.
+
+<img src="./2022-7-11/mandela.jpeg" style="max-height: 90vh"><br>
+*Memorial to Nelson Mandela*
+
+There's a lot of royalty buried in Westminster Abbey as well.  Even with my extensive knowledge gained from my 10 days in London, I still have trouble keeping track of all the different Henrys and Elizabeths.  There were a few graves that distinctly stood out however.  The first were those of Mary (Queen of Scots) and Elizabeth (I), two cousins who had a fierce political rivalry stoked by religious differences.  In 1587, [Mary was executed](https://www.rmg.co.uk/stories/topics/elizabeth-i-mary-queen-scots) as punishment for conspiracy to kill Elizabeth.  Years later, Mary's son had her body exhumed and placed alongside Elizabeth's in Westminster Abbey.  I really like the inscription that was placed at the heads of their tombs.
+
+<img src="./2022-7-11/mary_and_elizabeth.jpeg" style="max-height: 90vh"><br>
+*The inscription explains part of why Mary and Elizabeth were placed side-by-side, despite their rivalry*
+
+Just across from Mary and Elizabeth are the bones that were found hidden in the walls at the Tower of London (see [July 9](#saturday-july-9)) and believed to be those of the princes Edward V and Richard.
+
+<img src="./2022-7-11/princes.jpeg" style="max-height: 90vh"><br>
+*Bones discovered in the Tower of London and attributed as being those of Edward V and Richard*
+
+Like many cathedrals, Westminster Abbey is constructed in the shape of a cross.  At the top of the cross is the Lady Chapel, which the audio guide described as being a sort of chapel within a chapel (a side chapel) dedicated to St. Mary.
+
+<img src="./2022-7-11/lady_chapel_ceiling.jpeg" style="max-height: 90vh"><br>
+*The ceiling and windows of the Lady Chapel were beautiful*
+
+<img src="./2022-7-11/lady_chapel_altar.jpeg" style="max-height: 90vh"><br>
+*At the center lies an altar dedicated to the Virgin Mary*
+
+The part of Westminster that I was most excited to see was Poet's Corner.  Poet's Corner is an area of the Abbey devoted to poets, writers, playwrights, and composers.  It consists of a large square cluster of graves as well as some others nearby, along with a ton of other memorials on the walls and even in the windows.
+
+<img src="./2022-7-11/poets_corner_graves.jpeg" style="max-height: 90vh"><br>
+*Poet's Corner graves*
+
+<img src="./2022-7-11/poets_corner_memorials.jpeg" style="max-height: 90vh"><br>
+*Memorials to various writers including Shakespeare at the center with plaques for Jane Austen and the Bronte sisters on either side*
+
+<img src="./2022-7-11/kipling.jpeg" style="max-height: 90vh"><br>
+*I know my grandpa is a huge fan of Kipling, so I made sure to get a picture by his grave specifically.  To the left is the grave of Charles Dickens, and above that is George Handel's*
+
+And that ends your digital tour of Westminster Abbey!
+
+<img src="./2022-7-11/westminster_abbey_2.jpeg" style="max-height: 90vh"><br>
+*Leaving the Abbey*
+
+Surrounding the nearby Parliament Square Garden are statues of a few different prominent figures, including Nelson Mandela, Gandhi, and Abraham Lincoln.  Maybe you can find a theme in there?
+
+<img src="./2022-7-11/courage.jpeg" style="max-height: 90vh"><br>
+*Millicent Fawcett, a prominent leader in the women's suffrage movement of the UK.  The first statue of a woman and by a woman to be placed in Parliament Square*
+
+After Westminster Abbey we ran over to the Natural History museum for another quick visit.  This time we went through an exhibit on the solar system and the formation of the Earth.  After our short visit there, we headed to our group dinner at Hereford Arms.
+
+<img src="./2022-7-11/menu.jpeg" style="max-height: 90vh"><br>
+*What would you have ordered?*
+
+I ended up getting the gnocchi for my main course, and the lemon bar for dessert (or pudding, as they say here).  The gnocchi was good, but the ratio of vegetables to gnocchi was a little high for me.  The desert was also good, but the combination of lemon and raspberry was very strong.
+
+<img src="./2022-7-11/gnocchi.jpeg" style="max-height: 90vh"><br>
+*"Aged Parmesan Gnocchi, roasted artichoke, olives, rainbow chard, goat's curd"*
+
+<img src="./2022-7-11/lemon_bar.jpeg" style="max-height: 90vh"><br>
+*"Glazed Lemon Tart, raspberry sorbet"*
+
+After dinner, Brooklyn and I went back to the Criterion Theatre to see if there was any chance we could see Tom Felton, since I had missed seeing him on Friday.  As it turned out, they don't perform at that theatre on Mondays, so no luck there.  There *are*, however, performances at Duke of York's Theatre on Mondays, so we went there to see if we might get a chance to see Amy Adams once her show got out.
+
+<img src="./2022-7-11/glass_menagerie_poster.jpeg" style="max-height: 90vh"><br>
+*Brooklyn and I taking a photo with Amy Adams*
+
+ We actually *did* get to see Amy Adams, but we weren't able to join the queue to meet her since we didn't have tickets to the show she was in.  I managed to get a picture of her anyways, and this way I didn't have to wear a mask.
+
+<img src="./2022-7-11/amy_adams.jpeg" style="max-height: 90vh"><br>
+*Me and Amy Adams*
+
+Not a bad way to spend our last night in London.
+
 
 ### Sunday, July 10
 
