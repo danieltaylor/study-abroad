@@ -5,6 +5,7 @@
 
 ## Contents
 - **[Cambridge](#cambridge)**
+	- [Wednesday, July 13](#tuesday-july-13)
 	- [Tuesday, July 12](#tuesday-july-12)
 - **[London](#london)**
 	- [Monday, July 11](#monday-july-11)
@@ -20,6 +21,94 @@
 
 
 ## Cambridge
+
+### Wednesday, July 13
+
+This morning we stopped by the Cavendish Laboratory, where the structure of DNA and about a million other things were discovered.  We didn't get to go in, because the labs are actually used for psychology and sociology studies these days (to my professors' dismay), but the buildings were very nice.
+
+If you though the 12 Nobel Prize winners coming out of the LMB yesterday was impressive, just wait until you hear about Cavendish.  It has produced a total of [30 laureates](https://en.wikipedia.org/wiki/Cavendish_Laboratory#Nobel_Laureates_at_the_Cavendish), with the first being in 1904 and the most recent in 2019.
+
+<img src="./2022-7-13/cavendish_establishment_plaque.jpeg" style="max-height: 90vh"><br>
+*History of Cavendish Labs*
+
+<img src="./2022-7-13/cavendish_thompson_plaque.jpeg" style="max-height: 90vh"><br>
+*Location of the discovery of the electron...*
+
+<img src="./2022-7-13/cavendish_josephson_plaque.jpeg" style="max-height: 90vh"><br>
+*...and of something else that I hardly understand*
+
+Being microbiology majors (apart from Josh and I), we were at Cavendish Labs primarily because of its role in Watson and Crick's discovery of DNA's double helix structure.  Just down the street is The Eagle, the pub where they announced their discovery.
+
+<img src="./2022-7-13/the_eagle.jpeg" style="max-height: 90vh"><br>
+*The Eagle pub*
+
+<img src="./2022-7-13/the_eagle_plaque.jpeg" style="max-height: 90vh"><br>
+*Another plaque, commemorating Crick and Watson (and Franklin)*
+
+It seemed obligatory to get a drink at this historic site, so I purchased myself an alcohol free beer.  It was terrible.
+
+<img src="./2022-7-13/drink.jpeg" style="max-height: 90vh"><br>
+*Taking a drink in commemoration of the work of Watson and Crick*
+
+After our visit to the pub, and with my non-alcoholic drink still in hand and unfinished, we went to punt the Cam.  Punting looks similar to taking a gondola ride, but instead of using an oar, the punter just uses a big stick to push the punt along the river.
+
+<img src="./2022-7-13/punting_group.jpeg" style="max-height: 90vh"><br>
+*Us in our punt, from the perspective of our punter, Dylan*
+
+<img src="./2022-7-13/other_punting_group.jpeg" style="max-height: 90vh"><br>
+*The other half of our group on the Cam*
+
+<img src="./2022-7-13/sigh.jpeg" style="max-height: 90vh"><br>
+*Punting the Cam with MacKayla and Sam! (rhyme intended)*
+
+In the background of the previous photo you'll see other people punting, as well as the Bridge of Sighs.  This bridge is to be confused with the Bridge of Sighs in Venice, Italy, nor with the Bridge of Sighs in Oxford, England.  It is also not to be confused with *Bridge of Spies*, featuring Tom Hanks.  In addition to its confusing name, Cambridge's Bridge of Sighs is also known for being the place where engineering students [suspended a car over the river](https://www.cambridge-news.co.uk/news/cambridge-news/how-cambridge-university-pranksters-managed-17836295) as a prank.
+
+Before the boat trip was over I finally managed to gag down the last few drops of my beer.
+
+Afterwards, we wandered through the town a bit, stopping at different shops as we went.  Eventually I ended up at the Fitzwilliam Museum, which had some really interesting art pieces.  One part of the museum was a special exhibit on [David Hockney](https://en.wikipedia.org/wiki/David_Hockney).  I really liked the display of his digital art, mostly for the great description it had:
+
+> "When Hockney discovered the iPhone, and subsequently the iPad, as drawing tools he was excited by their potential. 'This is a real new medium', he explained, 'So much variety is possible. You can't overwork this because it's not a real surface.  And you can put anything on anything: a bright, bright blue on top of an intense yellow.' . . . As he said, 'I draw flowers every day and send them to friends, so they get fresh flowers every morning. And my flowers last!'"
+
+<img src="./2022-7-13/hockney.jpeg" style="max-height: 90vh"><br>
+How to Make Flowers Last *by David Hockney—the screen cycled through different digital paintings*
+
+Another really interesting display involved a work by Nicholas Poussin.  Poussin was known for setting up 3D models to base his paintings off of in order to better account for lighting and depth.  Although it's not known for sure whether he used a model for the painting below, it is considered likely, and a model similar to what he may have used was constructed for the museum display.
+
+<img src="./2022-7-13/poussin_painting.jpeg" style="max-height: 90vh"><br>
+Extreme Unction *by Nicholas Poussin*
+
+<img src="./2022-7-13/poussin_model.jpeg" style="max-height: 90vh"><br>
+*Recreation of Poussin's possible 3D model*
+
+Before the museum closed, we stopped by the gift shop, where I found some great socks featuring Ada Lovelace.  I'm not really sure how she relates to anything on display in the Fitzwilliam Museum, but she is widely considered to be the first computer programmer, so I had to buy them.
+
+<img src="./2022-7-13/ada_socks.jpeg" style="max-height: 90vh"><br>
+*"That brain of mine is something more than merely mortal; as time will show." – Ada Lovelace<br>(This has proven to be true historically for Ada, and I believe it is a spiritual truth applicable to each of us.)*
+
+After the museum, I got a tiny scoop of gelato.  I know failing to mention it would disappoint my sister.
+
+<img src="./2022-7-13/gelato.jpeg" style="max-height: 90vh"><br>
+*Single scoop of treacle at Jack's Gelato*
+
+After dessert, we picked up some real food at the grocery store and had a picnic in one of the parks.  When we were done eating, we played cards and MacKayla taught us some self-defense moves.
+
+<img src="./2022-7-13/sandwich.jpeg" style="max-height: 90vh"><br>
+*Wearing my sandwich as a hat, ready to fight*
+
+> #### MMBIO Writeup:<br>Cavendish Laboratory
+>
+> **Historical Significance**
+> - A whole ton!  In addition to the discovery of DNA at Cavendish Laboratory, about a million other things have been discovered there as well.
+>
+> **Scientific Principles**
+> - *Importance of gathering data*—it was by combining all the data that they and others had collected that Watson and Crick were able to come to their conclusion about the structure of DNA (see the writeup for [Double Helix at the Science Museum](#mmbio-writeupdouble-helix-at-the-science-museum))
+>
+> **Today's Application**
+> - Recognizing all the scientific discoveries that have been made—even over just a short period of time in a single location—helps us to see how much room there is for new discoveries to keep being made.
+>
+> **Coolest Part**
+> - Just the sheer number of Nobel Prizes that have come out of a single research laboratory is incredible to me.
+
 
 ### Tuesday, July 12
 
