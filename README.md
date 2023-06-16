@@ -4,174 +4,562 @@
 
 
 ## Contents
-- **[Cambridge](#cambridge)**
-	- [Wednesday, July 13](#tuesday-july-13)
-	- [Tuesday, July 12](#tuesday-july-12)
-- **[London](#london)**
-	- [Monday, July 11](#monday-july-11)
-	- [Sunday, July 10](#sunday-july-10)
-	- [Saturday, July 9](#saturday-july-9) - Tower of London and Abbey Road
-	- [Friday, July 8](#friday-july-8) - Natural History and Science Museum
-	- [Thursday, July 7](#thursday-july-7) - King's Cross and The Mousetrap
-	- [Wednesday, July 6](#wednesday-july-6) - Kew Royal Botanical Gardens
-	- [Tuesday, July 5](#tuesday-july-5) - London Museum
-	- [Monday, July 4](#monday-july-4) - Grant Museum and Paddington
-	- [Sunday, July 3](#sunday-july-3) - Wimbledon
-	- [Saturday, July 2](#saturday-july-2) - Kensington Palace
 
+### [London](#london)
+- **[Saturday, July 2](#saturday-july-2)** - Kensington Palace
+- **[Sunday, July 3](#sunday-july-3)** - Wimbledon
+- **[Monday, July 4](#monday-july-4)** - Grant Museum and Paddington
+- **[Tuesday, July 5](#tuesday-july-5)** - London Museum
+- **[Wednesday, July 6](#wednesday-july-6)** - Kew Royal Botanical Gardens
+- **[Thursday, July 7](#thursday-july-7)** - King's Cross and The Mousetrap
+- **[Friday, July 8](#friday-july-8)** - Natural History and Science Museum
+- **[Saturday, July 9](#saturday-july-9)** - Tower of London and Abbey Road
+- **[Sunday, July 10](#sunday-july-10)** - V&A Museum and The Globe
+- **[Monday, July 11](#monday-july-11)** - Imperial War Museum and Westminster Abbey
 
-## Cambridge
+### [Cambridge](#cambridge)
+- **[Tuesday, July 12](#tuesday-july-12)** - Whipple Museum and Addenbrook's Hospital
+- **[Wednesday, July 13](#wednesday-july-13)** - Cavendish Laboratory and Fitzwilliam Museum
 
-### Wednesday, July 13
+### [Oxford](#oxford)
+- **[Thursday, July 14](#thursday-july-14)** - Museum of Natural History and History of Science Museum
 
-This morning we stopped by the Cavendish Laboratory, where the structure of DNA and about a million other things were discovered.  We didn't get to go in, because the labs are actually used for psychology and sociology studies these days (to my professors' dismay), but the buildings were very nice.
+### [Gloucester](#gloucester)
+- **[Friday, July 15](#friday-july-15)** - Hook Norton Brewery
+- **Saturday, July 16** - Cardiff, Wales
 
-If you though the 12 Nobel Prize winners coming out of the LMB yesterday was impressive, just wait until you hear about Cavendish.  It has produced a total of [30 laureates](https://en.wikipedia.org/wiki/Cavendish_Laboratory#Nobel_Laureates_at_the_Cavendish), with the first being in 1904 and the most recent in 2019.
+### [Bath](#bath)
+- **[Sunday, July 17](#sunday-july-17)** - Edward Jenner's House
+- **[Monday, July 18](#monday-july-18)** - Roman Baths
 
-<img src="./2022-7-13/cavendish_establishment_plaque.jpeg" style="max-height: 90vh"><br>
-*History of Cavendish Labs*
+### [London - Part 2](#london---part-2)
+- **[Tuesday, July 19](#tuesday-july-19)** - Cheddar Gorge Cheese Company and Stonehenge
 
-<img src="./2022-7-13/cavendish_thompson_plaque.jpeg" style="max-height: 90vh"><br>
-*Location of the discovery of the electron...*
+### [Paris](#paris)
+- **Wednesday, July 20** - Eurostar and Les Fabricants
+- **[Thursday, July 21](#thursday-july-21)** - The Louvre
+- **[Friday, July 22](#friday-july-22)** - La Caverne
+- **Saturday, July 23** - Versailles
+- **Sunday, July 24** - Eiffel Tower and Tour de France
+- **[Monday, July 25](#monday-july-25)** - Jardin des Plantes Grande Galerie de l’Évolution
+- **[Tuesday, July 26](#tuesday-july-26)** - Le Cordon Bleu
 
-<img src="./2022-7-13/cavendish_josephson_plaque.jpeg" style="max-height: 90vh"><br>
-*...and of something else that I hardly understand*
+### [Mont Saint Michel](#mont-saint-michel)
+- **[Wednesday, July 27](#wednesday-july-27)** - La Maison du Camembert
 
-Being microbiology majors (apart from Josh and I), we were at Cavendish Labs primarily because of its role in Watson and Crick's discovery of DNA's double helix structure.  Just down the street is The Eagle, the pub where they announced their discovery.
+### Tours
+- **Thursday, July 28** - Mont Saint Michel Abbey
 
-<img src="./2022-7-13/the_eagle.jpeg" style="max-height: 90vh"><br>
-*The Eagle pub*
+### Paris - Part 2
+- **Saturday, July 30** - Catacombs
+- **Friday, July 29** - Château de Chenceau
 
-<img src="./2022-7-13/the_eagle_plaque.jpeg" style="max-height: 90vh"><br>
-*Another plaque, commemorating Crick and Watson (and Franklin)*
-
-It seemed obligatory to get a drink at this historic site, so I purchased myself an alcohol free beer.  It was terrible.
-
-<img src="./2022-7-13/drink.jpeg" style="max-height: 90vh"><br>
-*Taking a drink in commemoration of the work of Watson and Crick*
-
-After our visit to the pub, and with my non-alcoholic drink still in hand and unfinished, we went to punt the Cam.  Punting looks similar to taking a gondola ride, but instead of using an oar, the punter just uses a big stick to push the punt along the river.
-
-<img src="./2022-7-13/punting_group.jpeg" style="max-height: 90vh"><br>
-*Us in our punt, from the perspective of our punter, Dylan*
-
-<img src="./2022-7-13/other_punting_group.jpeg" style="max-height: 90vh"><br>
-*The other half of our group on the Cam*
-
-<img src="./2022-7-13/sigh.jpeg" style="max-height: 90vh"><br>
-*Punting the Cam with MacKayla and Sam! (rhyme intended)*
-
-In the background of the previous photo you'll see other people punting, as well as the Bridge of Sighs.  This bridge is to be confused with the Bridge of Sighs in Venice, Italy, nor with the Bridge of Sighs in Oxford, England.  It is also not to be confused with *Bridge of Spies*, featuring Tom Hanks.  In addition to its confusing name, Cambridge's Bridge of Sighs is also known for being the place where engineering students [suspended a car over the river](https://www.cambridge-news.co.uk/news/cambridge-news/how-cambridge-university-pranksters-managed-17836295) as a prank.
-
-Before the boat trip was over I finally managed to gag down the last few drops of my beer.
-
-Afterwards, we wandered through the town a bit, stopping at different shops as we went.  Eventually I ended up at the Fitzwilliam Museum, which had some really interesting art pieces.  One part of the museum was a special exhibit on [David Hockney](https://en.wikipedia.org/wiki/David_Hockney).  I really liked the display of his digital art, mostly for the great description it had:
-
-> "When Hockney discovered the iPhone, and subsequently the iPad, as drawing tools he was excited by their potential. 'This is a real new medium', he explained, 'So much variety is possible. You can't overwork this because it's not a real surface.  And you can put anything on anything: a bright, bright blue on top of an intense yellow.' . . . As he said, 'I draw flowers every day and send them to friends, so they get fresh flowers every morning. And my flowers last!'"
-
-<img src="./2022-7-13/hockney.jpeg" style="max-height: 90vh"><br>
-How to Make Flowers Last *by David Hockney—the screen cycled through different digital paintings*
-
-Another really interesting display involved a work by Nicholas Poussin.  Poussin was known for setting up 3D models to base his paintings off of in order to better account for lighting and depth.  Although it's not known for sure whether he used a model for the painting below, it is considered likely, and a model similar to what he may have used was constructed for the museum display.
-
-<img src="./2022-7-13/poussin_painting.jpeg" style="max-height: 90vh"><br>
-Extreme Unction *by Nicholas Poussin*
-
-<img src="./2022-7-13/poussin_model.jpeg" style="max-height: 90vh"><br>
-*Recreation of Poussin's possible 3D model*
-
-Before the museum closed, we stopped by the gift shop, where I found some great socks featuring Ada Lovelace.  I'm not really sure how she relates to anything on display in the Fitzwilliam Museum, but she is widely considered to be the first computer programmer, so I had to buy them.
-
-<img src="./2022-7-13/ada_socks.jpeg" style="max-height: 90vh"><br>
-*"That brain of mine is something more than merely mortal; as time will show." – Ada Lovelace<br>(This has proven to be true historically for Ada, and I believe it is a spiritual truth applicable to each of us.)*
-
-After the museum, I got a tiny scoop of gelato.  I know failing to mention it would disappoint my sister.
-
-<img src="./2022-7-13/gelato.jpeg" style="max-height: 90vh"><br>
-*Single scoop of treacle at Jack's Gelato*
-
-After dessert, we picked up some real food at the grocery store and had a picnic in one of the parks.  When we were done eating, we played cards and MacKayla taught us some self-defense moves.
-
-<img src="./2022-7-13/sandwich.jpeg" style="max-height: 90vh"><br>
-*Wearing my sandwich as a hat, ready to fight*
-
-> #### MMBIO Writeup:<br>Cavendish Laboratory
->
-> **Historical Significance**
-> - A whole ton!  In addition to the discovery of DNA at Cavendish Laboratory, about a million other things have been discovered there as well.
->
-> **Scientific Principles**
-> - *Importance of gathering data*—it was by combining all the data that they and others had collected that Watson and Crick were able to come to their conclusion about the structure of DNA (see the writeup for [Double Helix at the Science Museum](#mmbio-writeupdouble-helix-at-the-science-museum))
->
-> **Today's Application**
-> - Recognizing all the scientific discoveries that have been made—even over just a short period of time in a single location—helps us to see how much room there is for new discoveries to keep being made.
->
-> **Coolest Part**
-> - Just the sheer number of Nobel Prizes that have come out of a single research laboratory is incredible to me.
-
-
-### Tuesday, July 12
-
-Today we took a charter bus to Cambridge.  The bus ride was nice, and I got MacKayla to watch *The Imitation Game* with me during the trip, on the condition that I will watch *Hidden Figures* with her.  I think all the time we spent at the Science Museum on [Friday](#friday-july-8) might have had some influence on that agreement.
-
-All of the guys in our group are staying at Westminster College, and **wow** the rooms are nice.  We each get a room to ourselves, complete with connected bathrooms and kitchen areas.  This is especially wonderful compared to having 9 to a room and sharing the bathrooms with the girls, as was the case in London.
-
-<img src="./2022-7-12/westminster_college.jpeg" style="max-height: 90vh"><br>
-*Westminster College*
-
-<img src="./2022-7-12/westminster_room.jpeg" style="max-height: 90vh"><br>
-*Room at Westminster College*
-
-After dropping our things off in our rooms, we all headed over to the Whipple Museum of the History of Science.  The museum wasn't very large, but they did have a huge range of items—primarily tools that would have been used for scientific study or teaching.
-
-<img src="./2022-7-12/glass_fungi.jpeg" style="max-height: 90vh"><br>
-*Glass models of fungi*
-
-<img src="./2022-7-12/darwins_microscope.jpeg" style="max-height: 90vh"><br>
-*"Darwin's main research instrument from its purchased in 1847 to his death in 1882"*
-
-After the Whipple Museum, we took a bus over to the Addenbrook's Hospital, where a BYU alum named John showed us around.  John is doing research on brain tumors, so we got to see the lab where he does most of his work, and then he also took us over to see the Laboratory of Molecular Biology.  The LMB has been home to the work of 12 different Nobel Prize laureates.
-
-<img src="./2022-7-12/lmb_group.jpeg" style="max-height: 90vh"><br>
-*Outside the LMB*
-
-<img src="./2022-7-12/nobel_prize.jpeg" style="max-height: 90vh"><br>
-*John Kendrew's Nobel Prize for Chemistry*
-
-<img src="./2022-7-12/fortran.jpeg" style="max-height: 90vh"><br>
-*Printout of a map of human deoxyhaemoglobin generated on a computer using the FORTRAN programming language*
-
-<img src="./2022-7-12/ampersand.jpeg" style="max-height: 90vh"><br>
-*Ampersand statue outside the LMB.  Not really sure what it's supposed to mean, but the colors remind me of a DNA sequence*
-
-Right across from the LMB is the AstraZeneca building.  We didn't get to go inside, but it was still cool to see the headquarters of a company that came into the world spotlight so fairly.
-
-<img src="./2022-7-12/astrazeneca.jpeg" style="max-height: 90vh"><br>
-*AstraZeneca building*
-
-Before heading back to our rooms for the evening, we walked by Newton's Apple Tree, or more accurately, Son of Newton's Apple Tree, since it was grafted from the apple tree that stood outside Sir Isaac Newton's home.
-
-<img src="./2022-7-12/son_of_newtons_apple_tree.jpeg" style="max-height: 90vh"><br>
-*Son of Newton's Apple Tree*
-
-Most places closed around 5 (other than the pubs of course, where I imagine things were just getting started), so even by the time we made it back to Westminster I still had a few hours to spare.  Just getting to relax in my room by myself for a few hours was probably one of my favorite parts of this trip so far.  I took a shower, worked on catching up on some travel entries, and called my sister over FaceTime.  It's unfortunate that we're only staying in Cambridge for two nights, but if we're lucky maybe we'll get to have rooms like this again.
-
-> #### MMBIO Writeup:<br>Whipple Museum
->
-> **Historical Significance**
-> - The Whipple Museum houses scientific tools and materials that date back multiple centuries.  Seeing these items helps us to better understand how science has been carried out and developed over time.  Science is all about discovery, and building upon the discoveries of the past is how we come to discover more and more.
->
-> **Scientific Principles**
-> - *Improvement*—all of the scientific discoveries—and tools that allowed those discoveries—displayed in the Whipple Museum were a result of people choosing not to be satisfied with the status quo.  By taking what we already have, whether that be knowledge or an instrument, and working to improve upon it, science progresses.
->
-> **Today's Application**
-> - Understanding the history of science helps us to build the foundational knowledge that is needed to make new discoveries.  History also provides us with successful examples of using the scientific method, which can help us to develop frameworks for modern experiments.
->
-> **Coolest Parts**
-> - On a shelf in the museum were a variety of case studies written by professors, curators, and students.  It was fun to see how someone's research can end up being somewhere really interesting for all to read, rather than just being lost to the depths of the internet.  Some of the case studies can be found [here](https://doi.org/10.1017/9781108633628).
-
+---
 
 ## London
+
+### Saturday, July 2
+
+This morning (or at least what feels like this morning), I took the train up to the SLC airport where I met up with another girl in my group.  From SLC we had a layover in LAX, and then a long flight to the London Heathrow Airport.  All of our attendants on the second flight had interesting accents.  Once we made it to the airport, we met up with another girl in our group and took the underground to Earl's Court Station.  It was a long, fairly boring, and crowded ride with about 15 stops along the way.  From there, we walked about a mile to get to our hostel, arriving around 3:30 pm.  We were surprised at how many stairs there were coming out of the metro station, which probably wouldn't have been something we would have noticed had we not had our suitcases with us.  After making it to the hostel, we met up with some more of our group—including Dr. Breakwell and his wife—and went out to get food and take a brief walk by Kensington Palace.
+
+<img src="./2022-7-2/kensington.png" style="max-height: 90vh"><br>
+*Kensington Palace*
+
+At Kensington, Dr. Breakwell and his wife got something called a 99, which is an ice cream cone with a Flake bar that unfortunately costs much more than 99 pence.  I'll plan on getting one soon, so stay tuned.  Other than the many, many dogs that we saw, one of my favorite parts was seeing the statue of Queen Victoria.  It would have been slightly better if I'd been able to witness *la rana* that I heard a Hispanic boy pointing out to his parents, but it was still a great statue, and the lily pads in front of it were very pretty.
+
+<img src="./2022-7-2/victoria.png" style="max-height: 90vh"><br>
+*Queen Victoria statue at Kensington Palace*
+
+Back at the hostel, I beat a couple other guys in my group at blackjack.  Lucky for them, we were just playing with chips and not real money, because (1) I don't gamble, and (2) foreign currency does not come cheap.  Hopefully I'll manage to keep up on writing about my travels here and keep it interesting as well.  If anyone has any suggestions for things to do while I'm here, please let me know!
+
+
+### Sunday, July 3
+
+Today we attended sacrament meeting at the Hyde Park Ward.  The building they meet in is super interesting; it functions as a meetinghouse, a visitors' center, a mission office, etc., etc.
+
+<img src="./2022-7-3/church_group.jpeg" style="max-height: 90vh"><br>
+*This was just part of our group—the rest went to later wards*
+
+After church we took the tube down to Wimbledon for The Championships.  I'm not a huge tennis fan myself, but everyone else was going and I figured at the very least it would be worth going for bragging rights.
+
+<img src="./2022-7-3/tennis_throne.jpeg" style="max-height: 90vh"><br>
+*I thought it was odd that a tournament in the UK was sponsored by AmEx*
+
+We bought the cheap tickets, so we didn't get to see anything at the central court, but we were able to catch some really good doubles matches.  In the first one, a Women's Doubles match, the team from the US managed to catch up on a 5-1 set with 5 wins in a row.  Unfortunately the other team tied it back up to 6-6 and them went on to win the tie breaker.
+
+<img src="./2022-7-3/womens_doubles.jpeg" style="max-height: 90vh"><br>
+*Alison Riske-Amritraj serving in the Women's Doubles match*
+
+Between that match and a Men's Doubles I grabbed some food, which I have been requested to include pictures of.
+
+<img src="./2022-7-3/high_hurst.jpeg" style="max-height: 90vh"><br>
+*High Hurst sausage on a sourdough bun with fried onions and sriracha mayo*
+
+In the Men's Doubles match, we got to see the number one ranked team play, which had one player from the US and another from Great Britain.  It was a thrilling match, and the reactions of one of the opposing players were very entertaining.
+
+<img src="./2022-7-3/rajeev_ram.jpeg" style="max-height: 90vh"><br>
+*Rajeev Ram (USA) serving in the Men's Doubles match*
+
+Overall the tennis games were really fun to watch, and certainly beat all the walking around that we've been doing to get places.  I think it's safe to say the trip was worth more than bragging rights to me, but that also didn't stop me from buying a hat to show off.
+
+<img src="./2022-7-3/wimbledon_group.jpeg" style="max-height: 90vh"><br>
+
+
+### Monday, July 4
+
+Happy Fourth of July!  We didn't do much to celebrate today, but I *did* find a peacock feather that I stuck in my hat and promptly called macaroni.
+
+<img src="./2022-7-4/peacock.jpeg" style="max-height: 90vh"><br>
+*The peacock that so graciously left a feather behind for me*
+
+Our first stop for the today was the Grant Museum of Zoology, which is a massive collection of about 65,000 specimens (8,000 of those are sets of mouse bones that were collected for a study, with 4,000 of them on display.
+
+<img src="./2022-7-4/mouse_bones.jpeg" style="max-height: 90vh"><br>
+*4,000 sets of mouse bones*
+
+The Grant Museum had an incredible variety of specimens.
+
+<img src="./2022-7-4/elephant_heart.jpeg" style="max-height: 90vh"><br>
+*Any guesses who this heart once belonged to?*
+
+<img src="./2022-7-4/microscope_slides.jpeg" style="max-height: 90vh"><br>
+*Lots and lots of microscope slides*
+
+For lunch we all stopped at a place called Pret, which apparently does have some locations in the US, although it's UK-based.  I got a tomato and Brie sandwich, which was delicious, and a rhubarb lemonade, which I assume is about as close to a hard lemonade as you can get without actually having any alcohol in it—it was really strong.
+
+<img src="./2022-7-4/rhubarb_lemonade.jpeg" style="max-height: 90vh"><br>
+*Prêt à Manger (the full name of Pret) is French for "ready to eat"*
+
+After lunch we did a bit of walking to get to the next site, with some cool things along the way.  One street we went down seemed to be all guitar shops.  I can think of at least one family member who would've been in heaven there.
+
+<img src="./2022-7-4/taylor_guitars.jpeg" style="max-height: 90vh"><br>
+*The guitar district of London?*
+
+We also saw some cool street art along our walk.
+
+<img src="./2022-7-4/spaceship.jpeg" style="max-height: 90vh"><br>
+*"Spaceship!!!"*
+
+Our final destination was the Broad Street Pump, which is where John Snow (no relation to Jon Snow) famously removed the handle of the pump as part of his investigation of the [1854 Broad Street cholera outbreak](https://en.m.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak).
+
+<img src="./2022-7-4/broadstreet_pump.jpeg" style="max-height: 90vh"><br>
+*Broad Street pump with the cholera that Dr. Breakwell gave me*
+
+After the pump we broke off into smaller groups.  After going to Carnaby Street and realizing everything felt to expensive for us to even go inside most of the shops, we headed over to the British Museum.
+
+<img src="./2022-7-4/williams_cousin.jpeg" style="max-height: 90vh"><br>
+*[William the Hippo](https://www.metmuseum.org/art/collection/search/544227)'s cousin*
+
+<img src="./2022-7-4/molossian_hound.jpeg" style="max-height: 90vh"><br>
+*A boy and his Molossian Hound<br>(Don't worry—I'm not actually touching the art)*
+
+For dinner we went to a pub called Pride of Paddington.  The food was good, but my favorite part was seeing all the Paddington Bear sites nearby.
+
+<img src="./2022-7-4/pride_of_paddington.jpeg" style="max-height: 90vh"><br>
+*Paddington behind the bar counter of the pub*
+
+<img src="./2022-7-4/statue_of_paddington.jpeg" style="max-height: 90vh"><br>
+*Statue of Paddington inside Paddington Station*
+
+<img src="./2022-7-4/bench_of_paddington.jpeg" style="max-height: 90vh"><br>
+*Also in Paddington Station*
+
+I think it's safe to say the true pride of Paddington lies in its bear rather than in its pub.
+
+> #### MMBIO Writeup:<br>Grant Museum
+>
+> **Historical Significance**
+> - One of the oldest natural history museums in London
+> - Founded by Edward Grant, one of Charles Darwin's professors
+>
+> **Scientific Principles**
+> - *Comparative anatomy*—comparing the skeletons of different species allows us to see how they evolved from a common ancestor.  A good example of this is the dugong, whose skeleton looks similar enough to humans that it became a source for legends of mermaids.
+>
+> **Today's Application**
+> - The Grant Museum is still used today to teach students around the world.  Third year students are given unlabeled specimens (such as a bone) and have a semester to identify properly identify them.
+> - Comparative anatomy is still used today to help identify how closely related different species are.
+>
+> **Coolest Part**
+> - I found it really interesting to see how much variation there was in the skull structure of different breeds of domestic dogs.  In contrast, the skulls of domestic cats, ocelots, and tigers all had nearly the exact same structure, only differing in overall size.
+
+> #### MMBIO Writeup:<br>Broad Street Pump
+>
+> **Historical Significance**
+> - John Snow's work constituted what many consider to be the first epidemiological study.
+>
+> **Scientific Principles**
+> - *Epidemiology*—epidemiology involves studying patterns in diseases and their distribution.  Through epidemiology, the source of an outbreak may be determined (just as John Snow determined that contaminated water was the source of the cholera outbreak).
+>
+> **Today's Application**
+> - We still used epidemiology today to better understand diseases including where they come from an how they spread.  This can be seen in the response to the COVID-19 outbreak, both in the efforts to determine where it originated from and to understand how to curtail its spread.
+>
+> **Coolest Part**
+> - It's really interesting to see how strong the connection is between John Snow's study and those going on today.
+
+
+### Tuesday, July 5
+
+We started off the day by going to the Museum of London where we had a lecture on osteoarcheology.  Essentially it was about how we can look at bones that have been dug up and learn about civilizations, and the diseases people were affected by in particular.  We got to see and handle a TON of really old (~700 years) bones, which was super interesting!  We were asked not to post them online, but I figure I can just post this one and it will be okay.
+
+<img src="./2022-7-5/chapless_skull.jpeg" style="max-height: 90vh"><br>
+
+For lunch we went to Borough Market, where I got a pulled pork sandwich.  The sandwich was probably about half as good as it would have been if it had had barbecue sauce on it, but it still ended up being just about as messy.
+
+<img src="./2022-7-5/pulled_pork.jpeg" style="max-height: 90vh"><br>
+
+It also turns out Borough Market is [the site of the Leaky Cauldron](https://i.pinimg.com/originals/cc/0a/bd/cc0abd3e4a3ed4533504ebee8bc425bd.jpg) in *Harry Potter and the Prisoner of Azkaban*.  The taco place is what would have been the Leaky Cauldron, and the place on the right (the one that says "Arthur") was the Third Hand Book Emporium.
+
+<img src="./2022-7-5/leaky_tacos.jpeg" style="max-height: 90vh"><br>
+*Something tells me Tom doesn't work there anymore.*
+
+After stopping by the Leaky Cauldron, we went to the *other* Leaky Cauldron—the one from *Harry Potter and the Philosopher's Stone* (or *Sorcerer's Stone* for you Yanks)—in Leadenhall Market, which is also where Diagon Alley was filmed.
+
+<img src="./2022-7-5/leaky_migraine_clinic.jpeg" style="max-height: 90vh"><br>
+*Me and ~~Hagrid~~ Malcon outside the Leaky Cauldron*
+
+Later on, we visited All Hallows by the Tower, which is the oldest church in London, founded in 675 AD.  It also happens to be where both William Penn and John Quincy Adams were baptized.  It's too bad we didn't go yesterday so we could get that bit of American history in for the Fourth of July.  The crypt museum, which was under the church, was the most interesting part for me.  After that we went to St. Paul's Cathedral for Evensong.  Admission was free since we were going to listen to the choir, but it was with the restriction that we couldn't take pictures while we were inside.
+
+<img src="./2022-7-5/st_pauls.jpeg" style="max-height: 90vh"><br>
+*Outside St. Paul's Cathedral*
+
+We finished off the day by stopping to see Big Ben, which is we technically didn't see, because Big Ben is actually the name of the bell inside the Elizabeth Tower.
+
+<img src="./2022-7-5/big_ben.jpeg" style="max-height: 90vh"><br>
+*Large Benjamin*
+
+<img src="./2022-7-5/london_eye.jpeg" style="max-height: 90vh"><br>
+*The London Eye is right across the Thames from the Tower*
+
+> #### MMBIO Writeup:<br>Museum of London
+>
+> **Historical Significance**
+> - The skeletons studied here are representative of London's population during different periods of time and help us to better understand what ailments they struggled with.
+>
+> **Scientific Principles**
+> - *Comparative genomics*—by looking at the DNA in the teeth of skeletons found in the plague pit of Smithfield and comparing it to the DNA of *yersinia pestis*, scientists were able to bolster their theory that *y. pestis* was the cause of the black death.
+>
+> **Today's Application**
+> - We are able to learn more about history and disease by studying skeletons.  Hopefully by doing so we can better understand how to protect ourselves from future diseases.
+>
+> **Coolest Part**
+> - Being able to look at and handle multiple skeletons that were extremely old was an incredible experience.  I'm sure it's not the type of thing they let just anyone do and it was amazing to be able to that.
+
+
+### Wednesday, July 6
+
+Today we spent most of the day at Kew Royal Botanical Gardens.  We started off with a tour of the fungarium, where they store over 1.25 million specimens of fungi!
+
+<img src="./2022-7-6/fungarium.jpeg" style="max-height: 90vh"><br>
+*Inside each box is loads of packets of dried fungi specimens*
+
+A lot of the specimens have historical value as well as scientific, including some samples that constitute the first ecological study ever, and some morels that were collected by Charles Darwin himself.
+
+<img src="./2022-7-6/morels.jpeg" style="max-height: 90vh"><br>
+*Morels collected by Charles Darwin*
+
+Afterwards we had a lab tour and then listened to a lecture on mycology.  From there we were free to walk around the gardens.  We grabbed lunch first, for which I got a squash, mozzarella, and pesto pizza.  The mozzarella was really creamy, and like no mozzarella I'd ever had before.  I was wondering what made it so different, and whether it was some sort of fancy British mozzarella.  It wasn't until after I'd finished eating it that we were able to determine that it was vegan mozzarella.  On its own it was good, but from that perspective, I decided that the mozzarella was terrible, because it tasted nothing like actual mozzarella.  This was not unlike how beautiful the acoustics in St. Paul's Cathedral were yesterday from an auditory perspective, but how absolutely atrocious they were as far as comprehension of the singing went (and no, they were not singing in Latin the other time as some thought they had been).
+
+Kew had lots of different greenhouses, and it was super interesting to feel the different climates (tropical, arid, temperate) as we walked through different sections.
+
+<img src="./2022-7-6/palm_house.jpeg" style="max-height: 90vh"><br>
+*The Palm House of Kew Gardens*
+
+There were lots of interesting plants and I took tons of photos, but here are a few of the ones that turned out reasonably well:
+
+<img src="./2022-7-6/purple_flowers.jpeg" style="max-height: 90vh"><br>
+<img src="./2022-7-6/orange_flower.jpeg" style="max-height: 90vh"><br>
+<img src="./2022-7-6/pink_flowers.jpeg" style="max-height: 90vh"><br>
+
+Another fun part of the gardens was their Treetop Walkway, where, obviously enough, we were able to walk around the treetops.  I was however a little disappointed at the lack of treehouses.
+
+<img src="./2022-7-6/treetops.jpeg" style="max-height: 90vh"><br>
+*Becoming one with the trees*
+
+One other cool thing we saw at Kew Gardens was a structure called "The Hive."  Sometimes they light up different parts of it, which I'm sure would have made it even more impressive.
+
+<img src="./2022-7-6/hive_exterior.jpeg" style="max-height: 90vh"><br>
+*The Hive*
+
+I especially liked the view of the top from the inside.
+
+<img src="./2022-7-6/hive_interior.jpeg" style="max-height: 90vh"><br>
+*Inside The Hive*
+
+We also found this cool blue box right outside the station on our way back.  It was locked, so I can't confirm whether or not it's bigger on the inside.
+
+<img src="./2022-7-6/police_box.jpeg" style="max-height: 90vh"><br>
+
+> #### MMBIO Writeup:<br>Kew Royal Botanical Gardens
+>
+> **Historical Significance**
+> - Kew holds the largest and one of the oldest collections of fungal specimens in the world.  Many of the specimens are stored alongside the notes of prominent scientists and help us better understand how mycology has developed over time.
+>
+> **Scientific Principles**
+> - *Records, records, records*–The fungarium is an example of how valuable it is to keep records when doing scientific work.  The records of scientists from over a hundred years ago are still being looked over today.  Digitalization of specimens allows data to be organized, processed, and shared in ways that it could not be previously.
+>
+> **Today's Application**
+> - Mycology still has a ton of room to grow.  Only a small percentage of fungi in the world have been identified.  As new fungi are discovered and studied, they likely will have a significant impact on pharmaceuticals and the treatment of disease.
+>
+> **Coolest Parts**
+> - No one has figured out how to culture porcini, so it is only obtainable through foraging.
+> - Endophytes are fungi that live inside nearly every plant.  They have generally have symbiotic relationships with plants, and can help them take in more water and resist pathogens.
+
+
+### Thursday, July 7
+
+Today we went on a walking tour around London led by Dr. Breakwell.  We stopped by lots of different sites, including the first public drinking fountain, St. Bartholomew's Hospital, and St. John's Ambulance.
+
+<img src="./2022-7-7/drinking_fountain.jpeg" style="max-height: 90vh"><br>
+*Lauren and I drinking from the first public drinking fountain*
+
+From what I understand, St. John's Ambulence is kind of like the Red Cross.  It has a youth organization called the Badgers, and if you collect all nine Badger badges, you can become a Super Badger!
+
+<img src="./2022-7-7/badger_badges.jpeg" style="max-height: 90vh"><br>
+*The nine badges of power*
+
+<img src="./2022-7-7/bertie_badger.jpeg" style="max-height: 90vh"><br>
+*The coveted (by me) Bertie Badger figurine awarded to Super Badgers*
+
+We also stopped by the Charterhouse, which had a cool greyhound motif to it.  The ends of the staircase banisters had carved greyhounds topping them, but we hadn't realized we weren't supposed to be over there without a tour guide, so we got kicked out before I could get a picture with them.  I did manage to get a picture with John Wesley, however.
+
+<img src="./2022-7-7/john_wesley.jpeg" style="max-height: 90vh"><br>
+*John Wesley and me*
+
+<img src="./2022-7-7/charterhound.jpeg" style="max-height: 90vh"><br>
+*Stone greyhound carving on the outside of the Charterhouse*
+
+After the Charterhouse we broke off into smaller groups, one of which I nobly led to King's Cross Station.
+
+<img src="./2022-7-7/kings_cross.jpeg" style="max-height: 90vh"><br>
+*Outside King's Cross Station*
+
+We of course were there to see Platform 9¾.  I didn't get any pictures once I made it to the platform itself, but I have one of me about to enter.
+
+<img src="./2022-7-7/platform_9¾.jpeg" style="max-height: 90vh"><br>
+*Entering Platform 9¾*
+
+We regrouped at an Indian restaurant, Dishoom, for lunch.  We ate family style, but there was a set menu so we didn't have to argue over what to get at all.
+
+<img src="./2022-7-7/dishoom_group.jpeg" style="max-height: 90vh"><br>
+*Group lunch at Dishoom*
+
+<img src="./2022-7-7/dishoom_menu.jpeg" style="max-height: 90vh"><br>
+*What we ate*
+
+In the evening we went to see Agatha Christie's *The Mousetrap* at St. Martin's Theatre by Leicester Square.  I had a 4-pack of butterbeer in my bag from earlier so I had to leave it at the front counter.  The lady checking bags was really nice, but I was embarrassed thinking about how probably thought it was actual beer.  The play itself was really good, and the part where Miss Casewell says the newspaper contains the "usual political crisis" was [particularly relevant today](https://news.sky.com/story/boris-johnson-to-resign-as-prime-minister-12646836) and got an extra good laugh.
+
+<img src="./2022-7-7/mousetrap.jpeg" style="max-height: 90vh"><br>
+
+<!-- <img src="./2022-7-7/mousetrap_group.jpeg" style="max-height: 90vh"><br> -->
+
+
+### Friday, July 8
+
+Today we went to the Natural History Museum and the Science Museum.  They're right next to each other, as well as right by the church building that we meet at.  We only had time for the dinosaur exhibit before we had to head to the Science Museum, but it was really interesting.  Apparently MacKayla is an expert in dinosaurs, so she made an excellent tour guide.
+
+<img src="./2022-7-8/pachy_skull.jpeg" style="max-height: 90vh"><br>
+*An impressive cast of a pachycephalosaurus skull*
+
+<img src="./2022-7-8/apatosaurus_leg.jpeg" style="max-height: 90vh"><br>
+*An apatosaurus leg bone (right)*
+
+<img src="./2022-7-8/roar.png" style="max-height: 90vh"><br>
+*MacKayla and I doing our best dinosaur impressions*
+
+At the Science Museum, we went to look at the double helix model as a group, and Dr. Johnson gave us a mini-lecture on how the structure of DNA was discovered.  More on that in my MMBIO writeup at the bottom for today.
+
+<img src="./2022-7-8/double_helix.jpeg" style="max-height: 90vh"><br>
+*Replica of Watson and Crick's double helix model that we had a lecture next to.  There was another one that looked exactly like it in a gallery downstairs, and funny enough, I think that is the one that actually included the original metal plates from W&C's model.*
+
+The whole medical exhibit was really cool, but really gross too.  There was a wax model of a partially dissected human body, and I have to say, it was probably more difficult to look at than the *actual* human bodies that I saw at the California Science Center one time.  That being said, I've included it below for the sake of science.
+
+<img src="./2022-7-8/gross.jpeg" style="max-height: 90vh"><br>
+*Definitely the most lifelike anatomical model I've ever seen...*
+
+One of the parts I enjoyed that wasn't gross was seeing some of the old fashioned medical equipment.  I was admiring a diagram for a wrist-mounted heart rate monitor when Dallin pointed out, "You're wearing one right now" in reference to my Apple Watch.
+
+<img src="./2022-7-8/sphymograph.jpeg" style="max-height: 90vh"><br>
+*An early heart rate monitor*
+
+Another cool piece of equipment we saw was one of the first ECG machines.  I have one of those on my wrist too!
+
+<img src="./2022-7-8/ecg.jpeg" style="max-height: 90vh"><br>
+*A size comparison of two ECG machines*
+
+The Science Museum wasn't just medical science.  We also looked at the exhibits on the Information Age, mathematics, and space.
+
+<img src="./2022-7-8/google_server.jpeg" style="max-height: 90vh"><br>
+*One of Google's original servers in the Information Age exhibit*
+
+The mathematics exhibit was a lot more interesting than it might sound at first.  They had a small section on cryptography that I really liked, as well as a really interesting section on statistical visualizations, including the work of Florence Nightingale in making medical statistics more accessible.
+
+<img src="./2022-7-8/enigma.jpeg" style="max-height: 90vh"><br>
+*A German Enigma machine in the cryptography section of the "maths" exhibit*
+
+These last two displays were right across from each other in the "Making the Modern World" gallery:
+
+<img src="./2022-7-8/apollo_10_command.jpeg" style="max-height: 90vh"><br>
+*The command module from Apollo 10*
+
+<img src="./2022-7-8/apple_i.jpeg" style="max-height: 90vh"><br>
+*The Apple I, predecessor to all Apple products*
+
+As I mentioned at the beginning, the church building is really close by the museums, so after grabbing a quick dinner we headed over to the church for an organ concert that was going on.  The Hyde Park building organ is already [very impressive on its own](https://media-cdn.tripadvisor.com/media/photo-s/14/6c/76/a0/pipe-organ-in-hyde-park.jpg), but we were lucky enough to hear Dr. Richard Elliot (Principal Organist for the Tabernacle Choir at Temple Square) perform on it.  He was of course, very talented, and I particularly enjoyed a part where he played very quickly on only the foot pedals.  [Here's the program](./2022-7-8/concert_program.pdf) if anyone is interested in seeing what was performed or learning more about Dr. Elliot.
+
+<img src="./2022-7-8/organ_concert.jpeg" style="max-height: 90vh"><br>
+*In case it's not obvious, Dr. Elliot is the only one wearing a tie*
+
+On the way back after the concert we heard some music of a *different* style, which ended up being a Pearl Jam concert in Hyde Park.  We decided to take a detour, and ended up getting pretty close to where they were playing.  I'll link a [video here](./2022-7-8/pearl_jam.mov).  If you listen closely, you'll also hear the sound of people listening to trap music.  Why anyone would do that when they could be listening to Pearl Jam performing live is beyond me.
+
+<img src="./2022-7-8/sunset.jpeg" style="max-height: 90vh"><br>
+*We also got a lovely view of the sunset on our way over to Hyde Park*
+
+> #### MMBIO Writeup:<br>Double Helix at the Science Museum
+>
+> **Historical Significance**
+> - The discovery of the double helix was a huge advancement in our understanding of DNA.  DNA was discovered in 1869, but it wasn't until 1953 that Watson and Crick published their findings on the double helix structure.
+>
+> **Scientific Principles**
+> - *beware of pride*—Another scientist named Linus Pauling ended up snubbing the work of a Erwin Chargaff because he found him annoying.  As it turned out, Chargaff's Rule (see "Coolest Part") was a key piece of information that could have led Pauling to discover the double helix structure first, had his arrogance not caused him to overlook Chargaff.
+>
+> **Today's Application**
+> - One of the last lines in [Watson and Crick's paper](https://ui.adsabs.harvard.edu/link_gateway/1953Natur.171..737W/doi:10.1038/171737a0) states, "It has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material."  Their findings opened the doorway for our understanding of how DNA is replicated and much, much more.
+>
+> **Coolest Part**
+> - Part of how the double helix structure was discovered was through a statistical analysis of the the nucleobases in DNA.  Adenine and thymine always match up in percentages, as do cytosine and guanine (e.g. 30% adenine, 30% thymine, 20% cytosine, 20% guanine).  These correlations supported the idea of base pairings, which supported the idea of the double helix.
+
+
+### Saturday, July 9
+
+This morning we went to the Tower of London.  What stood out to me the most was seeing the part of the wall in the White Tower where what are presumed to be the skeletons of the two missing (probably murdered) princes were found.  I remembered that story and could even visualize the location from the other time I visited the tower 19 years ago.
+
+The White Tower had a ton of other cool stuff as well, including a huge armoury display, the Chapel of St. John, and a dragon!
+
+<img src="./2022-7-9/giants_armour.jpeg" style="max-height: 90vh"><br>
+*Trying to imitate the "giant's armour"*
+
+<img src="./2022-7-9/stained_glass.jpeg" style="max-height: 90vh"><br>
+*Stained glass in the Chapel of St. John*
+
+<img src="./2022-7-9/dragon.jpeg" style="max-height: 90vh"><br>
+*I should have grabbed a sword from the armoury while I had the chance!*
+
+In addition to the White Tower, we also got to see the crown jewels (another thing I remember from my previous visit), but pictures weren't allowed.  The other thing that really stuck out was learning about the different animals at the Tower.  The Tower is most known for its ravens, but it also was home to other exotic animals, including a polar bear that was gifted to Henry III by the King of Norway.  I have to wonder if that was an awkward exchange at all, as may occur when one buys their significant other a pet that they did not want or are unable to care for.
+
+<img src="./2022-7-9/raven.jpeg" style="max-height: 90vh"><br>
+*One of the ravens and its ball.  I thought it was cute that it had a ball, especially since I don't typically think of ravens as being "playful"*
+
+<img src="./2022-7-9/polar_bear.jpeg" style="max-height: 90vh"><br>
+*Polar bear and a very small raven*
+
+After the Tower of London a couple of us went to see [2:22: A Ghost Story](https://222aghoststory.com) at the Criterion Theatre.  We went at the recommendation of some others in our group who had seen it the previous night, and also managed to get a photo with Tom Felton, who plays one of the leads.
+
+<img src="./2022-7-9/222_marquee.jpeg" style="max-height: 90vh"><br>
+*Outside Criterion Theatre*
+
+The show was fantastic, and I really liked how detailed the set was.  Sometimes sets can be a little bare-bones, especially when there are lots of transitions in a play, but this one seemed very complete, down to all the different things on the kitchen counter.
+
+<img src="./2022-7-9/222_stage.jpeg" style="max-height: 90vh"><br>
+*I really liked the set*
+
+I won't say too much about the play itself, other than that it was scary, which made it very fun.  I'll be keeping an eye out to see if it ends up coming to the States at some point.
+
+<img src="./2022-7-9/tom_felton_poster.jpeg" style="max-height: 90vh"><br>
+*Tom Felton!  (Draco Malfoy for those who don't recognize him)*
+
+Unfortunately Tom Felton didn't come out for photos or signing after the performance we went to, but I did manage to get the signatures of two of the other actors, Beatriz Romilly and Sam Swainsbury.  They were both in a little bit of a rush but very nice nonetheless.  Beatriz told me to "enjoy the sunshine."
+
+<img src="./2022-7-9/criterion_stage_door.jpeg" style="max-height: 90vh"><br>
+*The door where Tom Felton would have come out of*
+
+After waiting around in vain for Tom, MacKayla and I went to Honest Burgers for dinner, where we split the [monthly](https://www.honestburgers.co.uk/food/burgers/morocco/) and [local](https://www.honestburgers.co.uk/food/burgers/brewer-st/) specials half and half.
+
+<img src="./2022-7-9/honest_burgers.jpeg" style="max-height: 90vh"><br>
+*Half a Morocco and half a Brewer St. from Honest Burgers*
+
+After dinner took a bus up to Abbey Road.  We walked across the Abbey Road crosswalk for the experience first, with plans to come back for photos, and then went into the Abbey Road Studios shop.  They definitely did have a lot of Beatles stuff, but I was surprised they didn't lean into it more.  There were a lot of items that were just Abbey Road Studios themed, as well as smaller selections of items for other artists they had recorded, such as Pink Floyd.
+
+One of the items they had was based on the iconic ["John & Paul & Ringo & George" design](https://fontsinuse.com/uses/29936/john-and-paul-and-ringo-and-george-and-and-an), which happened to go along with the shirt I was wearing at the time.
+
+<img src="./2022-7-9/&&&.jpeg" style="max-height: 90vh"><br>
+*The mug isn't quite the same as the famous design, but it seems intentionally close*
+
+After visiting the shop, we wrote our names on their wall (intended for that) outside and took the obligatory photos.
+
+<img src="./2022-7-9/crossing_abbey_road.jpeg" style="max-height: 90vh"><br>
+*Haters will say this isn't real*
+
+<img src="./2022-7-9/abbey_road_sign.jpeg" style="max-height: 90vh"><br>
+*The only Abbey Road sign that we could find that wasn't way too high to reach.  I'm guessing the took down the reachable ones near the crossing due to all the vandalism.*
+
+On the way back to the underground, I spotted a sign for a street called Violet Hill, which is the name of a [song by Coldplay](https://songwhip.com/coldplay/violet-hill) and happens to be one of my favorites of theirs.  I looked it up, and sure enough, Wikipedia confirmed that the song "derives its title from a street of the same name near Abbey Road."
+
+<img src="./2022-7-9/violet_hill.jpeg" style="max-height: 90vh"><br>
+*Violet Hill*
+
+
+### Sunday, July 10
+
+After church this morning we went over to the Victoria and Albert Museum.  I'm not actually sure what it's a museum of specifically, because it felt like they had everything, but I suppose it would be considered an art museum at the very least.  The hall of statues seemed very familiar, and considering how close it is to the church, I'm willing to bet I've been in that same room before.
+
+<img src="./2022-7-10/crouching_venus.jpeg" style="max-height: 90vh"><br>
+*Crouching Venus—a very similar statue is found in the British Museum*
+
+<img src="./2022-7-10/diana_the_huntress.jpeg" style="max-height: 90vh"><br>
+*Diana the Huntress*
+
+<img src="./2022-7-10/medieval_tunic.jpeg" style="max-height: 90vh"><br>
+*Not really sure how to work this photo in, but it's me in a medieval tunic*
+
+One section of the museum was dedicated to copies of paintings and casts of statues.  Even though they weren't the originals, the replicas were still really impressive!
+
+<img src="./2022-7-10/trajans_column.jpeg" style="max-height: 90vh"><br>
+*Trajan's Column, a monument in Rome commemorating Trajan's victory in the Dacian war campaigns*
+
+<img src="./2022-7-10/school_of_athens.jpeg" style="max-height: 90vh"><br>
+*The School of Athens*
+
+Another fun section was the jewelry exhibit.  There was a huge range of pieces, including some peculiar ones.
+
+<img src="./2022-7-10/chatelaine.jpeg" style="max-height: 90vh"><br>
+*This chatelaine is essentially a utility belt for homemaking.  Attached are a knife, lighter, scissors, and a key, among other items.*
+
+<img src="./2022-7-10/jade_snail.jpeg" style="max-height: 90vh"><br>
+*Jade snail*
+
+The religion section was really interesting as well.  We were mostly just passing through to get to another exhibit, but a couple of things caught my eye.
+
+<img src="./2022-7-10/communion_tray.jpeg" style="max-height: 90vh"><br>
+*"Many Noncomformist communities use individual communion cups."  Seem familiar?*
+
+<img src="./2022-7-10/icthys_font.jpeg" style="max-height: 90vh"><br>
+*The surface of this piece was so smooth it was almost impossible to tell it was flat on top (besides the divet in the middle).  The plaque had its own explanation, but for me the fish are reminiscent of the miracle of the fish and loaves and when Christ called His disciples to be fishers of men.*
+
+The exhibit that we were on our way to was the design exhibit.  It had a whole variety of different things, but I really liked the section they had on data privacy.
+
+<img src="./2022-7-10/snowden_laptop.jpeg" style="max-height: 90vh"><br>
+*This laptop held top-secret files leaked to The Guardian by Edward Snowden.  It was destroyed in such a way that the files would be irrecoverable when handed over to the UK government.*
+
+After visiting the V&A, we stopped at the Natural History for probably about an hour.  We went looking for a bear, but they were doing a lot of work on the mammal section, so we were unable to find one.
+
+Afterwards we headed over to the Globe Theatre to see a production of King Lear.  We bought the standing tickets because they were super cheap, but I definitely had to sit on the ground a few times.  Standing for three hours is bad enough as it is, but it's even worse when you've been averaging seven miles of walking a day.
+
+<img src="./2022-7-10/the_globe.jpeg" style="max-height: 90vh"><br>
+*View from standing in the Globe Theatre*
+
+The portrayal was really well done, but the combination of being tired of standing, strong accents, and old fashioned English made it a bit hard to follow.  It also didn't help that a few of the characters were played by the same actors.  With pretty much every Shakespeare play involving someone in disguise, it was hard to tell who was in disguise and who was genuinely a different character.
+
+<img src="./2022-7-10/globe_group.jpeg" style="max-height: 90vh"><br>
+*King Lear group*
+
+<img src="./2022-7-10/elizabeth_i_costume.jpeg" style="max-height: 90vh"><br>
+*Queen Elizabeth I costume from the Globe's Royal Gala Opening in 1997*
+
+The Globe is right next to the Thames, and the view of the city as we were leaving was beautiful.
+
+<img src="./2022-7-10/city_view.jpeg" style="max-height: 90vh"><br>
+*View of London from outside the Globe*
+
 
 ### Monday, July 11
 
@@ -304,490 +692,482 @@ After dinner, Brooklyn and I went back to the Criterion Theatre to see if there 
 Not a bad way to spend our last night in London.
 
 
-### Sunday, July 10
+## Cambridge
 
-After church this morning we went over to the Victoria and Albert Museum.  I'm not actually sure what it's a museum of specifically, because it felt like they had everything, but I suppose it would be considered an art museum at the very least.  The hall of statues seemed very familiar, and considering how close it is to the church, I'm willing to bet I've been in that same room before.
+### Tuesday, July 12
 
-<img src="./2022-7-10/crouching_venus.jpeg" style="max-height: 90vh"><br>
-*Crouching Venus—a very similar statue is found in the British Museum*
+Today we took a charter bus to Cambridge.  The bus ride was nice, and I got MacKayla to watch *The Imitation Game* with me during the trip, on the condition that I will watch *Hidden Figures* with her.  I think all the time we spent at the Science Museum on [Friday](#friday-july-8) might have had some influence on that agreement.
 
-<img src="./2022-7-10/diana_the_huntress.jpeg" style="max-height: 90vh"><br>
-*Diana the Huntress*
+All of the guys in our group are staying at Westminster College, and **wow** the rooms are nice.  We each get a room to ourselves, complete with connected bathrooms and kitchen areas.  This is especially wonderful compared to having 9 to a room and sharing the bathrooms with the girls, as was the case in London.
 
-<img src="./2022-7-10/medieval_tunic.jpeg" style="max-height: 90vh"><br>
-*Not really sure how to work this photo in, but it's me in a medieval tunic*
+<img src="./2022-7-12/westminster_college.jpeg" style="max-height: 90vh"><br>
+*Westminster College*
 
-One section of the museum was dedicated to copies of paintings and casts of statues.  Even though they weren't the originals, the replicas were still really impressive!
+<img src="./2022-7-12/westminster_room.jpeg" style="max-height: 90vh"><br>
+*Room at Westminster College*
 
-<img src="./2022-7-10/trajans_column.jpeg" style="max-height: 90vh"><br>
-*Trajan's Column, a monument in Rome commemorating Trajan's victory in the Dacian war campaigns*
+After dropping our things off in our rooms, we all headed over to the Whipple Museum of the History of Science.  The museum wasn't very large, but they did have a huge range of items—primarily tools that would have been used for scientific study or teaching.
 
-<img src="./2022-7-10/school_of_athens.jpeg" style="max-height: 90vh"><br>
-*The School of Athens*
+<img src="./2022-7-12/glass_fungi.jpeg" style="max-height: 90vh"><br>
+*Glass models of fungi*
 
-Another fun section was the jewelry exhibit.  There was a huge range of pieces, including some peculiar ones.
+<img src="./2022-7-12/darwins_microscope.jpeg" style="max-height: 90vh"><br>
+*"Darwin's main research instrument from its purchased in 1847 to his death in 1882"*
 
-<img src="./2022-7-10/chatelaine.jpeg" style="max-height: 90vh"><br>
-*This chatelaine is essentially a utility belt for homemaking.  Attached are a knife, lighter, scissors, and a key, among other items.*
+After the Whipple Museum, we took a bus over to the Addenbrook's Hospital, where a BYU alum named John showed us around.  John is doing research on brain tumors, so we got to see the lab where he does most of his work, and then he also took us over to see the Laboratory of Molecular Biology.  The LMB has been home to the work of 12 different Nobel Prize laureates.
 
-<img src="./2022-7-10/jade_snail.jpeg" style="max-height: 90vh"><br>
-*Jade snail*
+<img src="./2022-7-12/lmb_group.jpeg" style="max-height: 90vh"><br>
+*Outside the LMB*
 
-The religion section was really interesting as well.  We were mostly just passing through to get to another exhibit, but a couple of things caught my eye.
+<img src="./2022-7-12/nobel_prize.jpeg" style="max-height: 90vh"><br>
+*John Kendrew's Nobel Prize for Chemistry*
 
-<img src="./2022-7-10/communion_tray.jpeg" style="max-height: 90vh"><br>
-*"Many Noncomformist communities use individual communion cups."  Seem familiar?*
+<img src="./2022-7-12/fortran.jpeg" style="max-height: 90vh"><br>
+*Printout of a map of human deoxyhaemoglobin generated on a computer using the FORTRAN programming language*
 
-<img src="./2022-7-10/icthys_font.jpeg" style="max-height: 90vh"><br>
-*The surface of this piece was so smooth it was almost impossible to tell it was flat on top (besides the divet in the middle).  The plaque had its own explanation, but for me the fish are reminiscent of the miracle of the fish and loaves and when Christ called His disciples to be fishers of men.*
+<img src="./2022-7-12/ampersand.jpeg" style="max-height: 90vh"><br>
+*Ampersand statue outside the LMB.  Not really sure what it's supposed to mean, but the colors remind me of a DNA sequence*
 
-The exhibit that we were on our way to was the design exhibit.  It had a whole variety of different things, but I really liked the section they had on data privacy.
+Right across from the LMB is the AstraZeneca building.  We didn't get to go inside, but it was still cool to see the headquarters of a company that came into the world spotlight so fairly.
 
-<img src="./2022-7-10/snowden_laptop.jpeg" style="max-height: 90vh"><br>
-*This laptop held top-secret files leaked to The Guardian by Edward Snowden.  It was destroyed in such a way that the files would be irrecoverable when handed over to the UK government.*
+<img src="./2022-7-12/astrazeneca.jpeg" style="max-height: 90vh"><br>
+*AstraZeneca building*
 
-After visiting the V&A, we stopped at the Natural History for probably about an hour.  We went looking for a bear, but they were doing a lot of work on the mammal section, so we were unable to find one.
+Before heading back to our rooms for the evening, we walked by Newton's Apple Tree, or more accurately, Son of Newton's Apple Tree, since it was grafted from the apple tree that stood outside Sir Isaac Newton's home.
 
-Afterwards we headed over to the Globe Theatre to see a production of King Lear.  We bought the standing tickets because they were super cheap, but I definitely had to sit on the ground a few times.  Standing for three hours is bad enough as it is, but it's even worse when you've been averaging seven miles of walking a day.
+<img src="./2022-7-12/son_of_newtons_apple_tree.jpeg" style="max-height: 90vh"><br>
+*Son of Newton's Apple Tree*
 
-<img src="./2022-7-10/the_globe.jpeg" style="max-height: 90vh"><br>
-*View from standing in the Globe Theatre*
+Most places closed around 5 (other than the pubs of course, where I imagine things were just getting started), so even by the time we made it back to Westminster I still had a few hours to spare.  Just getting to relax in my room by myself for a few hours was probably one of my favorite parts of this trip so far.  I took a shower, worked on catching up on some travel entries, and called my sister over FaceTime.  It's unfortunate that we're only staying in Cambridge for two nights, but if we're lucky maybe we'll get to have rooms like this again.
 
-The portrayal was really well done, but the combination of being tired of standing, strong accents, and old fashioned English made it a bit hard to follow.  It also didn't help that a few of the characters were played by the same actors.  With pretty much every Shakespeare play involving someone in disguise, it was hard to tell who was in disguise and who was genuinely a different character.
-
-<img src="./2022-7-10/globe_group.jpeg" style="max-height: 90vh"><br>
-*King Lear group*
-
-<img src="./2022-7-10/elizabeth_i_costume.jpeg" style="max-height: 90vh"><br>
-*Queen Elizabeth I costume from the Globe's Royal Gala Opening in 1997*
-
-The Globe is right next to the Thames, and the view of the city as we were leaving was beautiful.
-
-<img src="./2022-7-10/city_view.jpeg" style="max-height: 90vh"><br>
-*View of London from outside the Globe*
-
-
-### Saturday, July 9
-
-This morning we went to the Tower of London.  What stood out to me the most was seeing the part of the wall in the White Tower where what are presumed to be the skeletons of the two missing (probably murdered) princes were found.  I remembered that story and could even visualize the location from the other time I visited the tower 19 years ago.
-
-The White Tower had a ton of other cool stuff as well, including a huge armoury display, the Chapel of St. John, and a dragon!
-
-<img src="./2022-7-9/giants_armour.jpeg" style="max-height: 90vh"><br>
-*Trying to imitate the "giant's armour"*
-
-<img src="./2022-7-9/stained_glass.jpeg" style="max-height: 90vh"><br>
-*Stained glass in the Chapel of St. John*
-
-<img src="./2022-7-9/dragon.jpeg" style="max-height: 90vh"><br>
-*I should have grabbed a sword from the armoury while I had the chance!*
-
-In addition to the White Tower, we also got to see the crown jewels (another thing I remember from my previous visit), but pictures weren't allowed.  The other thing that really stuck out was learning about the different animals at the Tower.  The Tower is most known for its ravens, but it also was home to other exotic animals, including a polar bear that was gifted to Henry III by the King of Norway.  I have to wonder if that was an awkward exchange at all, as may occur when one buys their significant other a pet that they did not want or are unable to care for.
-
-<img src="./2022-7-9/raven.jpeg" style="max-height: 90vh"><br>
-*One of the ravens and its ball.  I thought it was cute that it had a ball, especially since I don't typically think of ravens as being "playful"*
-
-<img src="./2022-7-9/polar_bear.jpeg" style="max-height: 90vh"><br>
-*Polar bear and a very small raven*
-
-After the Tower of London a couple of us went to see [2:22: A Ghost Story](https://222aghoststory.com) at the Criterion Theatre.  We went at the recommendation of some others in our group who had seen it the previous night, and also managed to get a photo with Tom Felton, who plays one of the leads.
-
-<img src="./2022-7-9/222_marquee.jpeg" style="max-height: 90vh"><br>
-*Outside Criterion Theatre*
-
-The show was fantastic, and I really liked how detailed the set was.  Sometimes sets can be a little bare-bones, especially when there are lots of transitions in a play, but this one seemed very complete, down to all the different things on the kitchen counter.
-
-<img src="./2022-7-9/222_stage.jpeg" style="max-height: 90vh"><br>
-*I really liked the set*
-
-I won't say too much about the play itself, other than that it was scary, which made it very fun.  I'll be keeping an eye out to see if it ends up coming to the States at some point.
-
-<img src="./2022-7-9/tom_felton_poster.jpeg" style="max-height: 90vh"><br>
-*Tom Felton!  (Draco Malfoy for those who don't recognize him)*
-
-Unfortunately Tom Felton didn't come out for photos or signing after the performance we went to, but I did manage to get the signatures of two of the other actors, Beatriz Romilly and Sam Swainsbury.  They were both in a little bit of a rush but very nice nonetheless.  Beatriz told me to "enjoy the sunshine."
-
-<img src="./2022-7-9/criterion_stage_door.jpeg" style="max-height: 90vh"><br>
-*The door where Tom Felton would have come out of*
-
-After waiting around in vain for Tom, MacKayla and I went to Honest Burgers for dinner, where we split the [monthly](https://www.honestburgers.co.uk/food/burgers/morocco/) and [local](https://www.honestburgers.co.uk/food/burgers/brewer-st/) specials half and half.
-
-<img src="./2022-7-9/honest_burgers.jpeg" style="max-height: 90vh"><br>
-*Half a Morocco and half a Brewer St. from Honest Burgers*
-
-After dinner took a bus up to Abbey Road.  We walked across the Abbey Road crosswalk for the experience first, with plans to come back for photos, and then went into the Abbey Road Studios shop.  They definitely did have a lot of Beatles stuff, but I was surprised they didn't lean into it more.  There were a lot of items that were just Abbey Road Studios themed, as well as smaller selections of items for other artists they had recorded, such as Pink Floyd.
-
-One of the items they had was based on the iconic ["John & Paul & Ringo & George" design](https://fontsinuse.com/uses/29936/john-and-paul-and-ringo-and-george-and-and-an), which happened to go along with the shirt I was wearing at the time.
-
-<img src="./2022-7-9/&&&.jpeg" style="max-height: 90vh"><br>
-*The mug isn't quite the same as the famous design, but it seems intentionally close*
-
-After visiting the shop, we wrote our names on their wall (intended for that) outside and took the obligatory photos.
-
-<img src="./2022-7-9/crossing_abbey_road.jpeg" style="max-height: 90vh"><br>
-*Haters will say this isn't real*
-
-<img src="./2022-7-9/abbey_road_sign.jpeg" style="max-height: 90vh"><br>
-*The only Abbey Road sign that we could find that wasn't way too high to reach.  I'm guessing the took down the reachable ones near the crossing due to all the vandalism.*
-
-On the way back to the underground, I spotted a sign for a street called Violet Hill, which is the name of a [song by Coldplay](https://songwhip.com/coldplay/violet-hill) and happens to be one of my favorites of theirs.  I looked it up, and sure enough, Wikipedia confirmed that the song "derives its title from a street of the same name near Abbey Road."
-
-<img src="./2022-7-9/violet_hill.jpeg" style="max-height: 90vh"><br>
-*Violet Hill*
-
-
-### Friday, July 8
-
-Today we went to the Natural History Museum and the Science Museum.  They're right next to each other, as well as right by the church building that we meet at.  We only had time for the dinosaur exhibit before we had to head to the Science Museum, but it was really interesting.  Apparently MacKayla is an expert in dinosaurs, so she made an excellent tour guide.
-
-<img src="./2022-7-8/pachy_skull.jpeg" style="max-height: 90vh"><br>
-*An impressive cast of a pachycephalosaurus skull*
-
-<img src="./2022-7-8/apatosaurus_leg.jpeg" style="max-height: 90vh"><br>
-*An apatosaurus leg bone (right)*
-
-<img src="./2022-7-8/roar.png" style="max-height: 90vh"><br>
-*MacKayla and I doing our best dinosaur impressions*
-
-At the Science Museum, we went to look at the double helix model as a group, and Dr. Johnson gave us a mini-lecture on how the structure of DNA was discovered.  More on that in my MMBIO writeup at the bottom for today.
-
-<img src="./2022-7-8/double_helix.jpeg" style="max-height: 90vh"><br>
-*Replica of Watson and Crick's double helix model that we had a lecture next to.  There was another one that looked exactly like it in a gallery downstairs, and funny enough, I think that is the one that actually included the original metal plates from W&C's model.*
-
-The whole medical exhibit was really cool, but really gross too.  There was a wax model of a partially dissected human body, and I have to say, it was probably more difficult to look at than the *actual* human bodies that I saw at the California Science Center one time.  That being said, I've included it below for the sake of science.
-
-<img src="./2022-7-8/gross.jpeg" style="max-height: 90vh"><br>
-*Definitely the most lifelike anatomical model I've ever seen...*
-
-One of the parts I enjoyed that wasn't gross was seeing some of the old fashioned medical equipment.  I was admiring a diagram for a wrist-mounted heart rate monitor when Dallin pointed out, "You're wearing one right now" in reference to my Apple Watch.
-
-<img src="./2022-7-8/sphymograph.jpeg" style="max-height: 90vh"><br>
-*An early heart rate monitor*
-
-Another cool piece of equipment we saw was one of the first ECG machines.  I have one of those on my wrist too!
-
-<img src="./2022-7-8/ecg.jpeg" style="max-height: 90vh"><br>
-*A size comparison of two ECG machines*
-
-The Science Museum wasn't just medical science.  We also looked at the exhibits on the Information Age, mathematics, and space.
-
-<img src="./2022-7-8/google_server.jpeg" style="max-height: 90vh"><br>
-*One of Google's original servers in the Information Age exhibit*
-
-The mathematics exhibit was a lot more interesting than it might sound at first.  They had a small section on cryptography that I really liked, as well as a really interesting section on statistical visualizations, including the work of Florence Nightingale in making medical statistics more accessible.
-
-<img src="./2022-7-8/enigma.jpeg" style="max-height: 90vh"><br>
-*A German Enigma machine in the cryptography section of the "maths" exhibit*
-
-These last two displays were right across from each other in the "Making the Modern World" gallery:
-
-<img src="./2022-7-8/apollo_10_command.jpeg" style="max-height: 90vh"><br>
-*The command module from Apollo 10*
-
-<img src="./2022-7-8/apple_i.jpeg" style="max-height: 90vh"><br>
-*The Apple I, predecessor to all Apple products*
-
-As I mentioned at the beginning, the church building is really close by the museums, so after grabbing a quick dinner we headed over to the church for an organ concert that was going on.  The Hyde Park building organ is already [very impressive on its own](https://media-cdn.tripadvisor.com/media/photo-s/14/6c/76/a0/pipe-organ-in-hyde-park.jpg), but we were lucky enough to hear Dr. Richard Elliot (Principal Organist for the Tabernacle Choir at Temple Square) perform on it.  He was of course, very talented, and I particularly enjoyed a part where he played very quickly on only the foot pedals.  [Here's the program](./2022-7-8/concert_program.pdf) if anyone is interested in seeing what was performed or learning more about Dr. Elliot.
-
-<img src="./2022-7-8/organ_concert.jpeg" style="max-height: 90vh"><br>
-*In case it's not obvious, Dr. Elliot is the only one wearing a tie*
-
-On the way back after the concert we heard some music of a *different* style, which ended up being a Pearl Jam concert in Hyde Park.  We decided to take a detour, and ended up getting pretty close to where they were playing.  I'll link a [video here](./2022-7-8/pearl_jam.mov).  If you listen closely, you'll also hear the sound of people listening to trap music.  Why anyone would do that when they could be listening to Pearl Jam performing live is beyond me.
-
-<img src="./2022-7-8/sunset.jpeg" style="max-height: 90vh"><br>
-*We also got a lovely view of the sunset on our way over to Hyde Park*
-
-> #### MMBIO Writeup:<br>Double Helix at the Science Museum
+> #### MMBIO Writeup:<br>Whipple Museum
 >
 > **Historical Significance**
-> - The discovery of the double helix was a huge advancement in our understanding of DNA.  DNA was discovered in 1869, but it wasn't until 1953 that Watson and Crick published their findings on the double helix structure.
+> - The Whipple Museum houses scientific tools and materials that date back multiple centuries.  Seeing these items helps us to better understand how science has been carried out and developed over time.  Science is all about discovery, and building upon the discoveries of the past is how we come to discover more and more.
 >
 > **Scientific Principles**
-> - *beware of pride*—Another scientist named Linus Pauling ended up snubbing the work of a Erwin Chargaff because he found him annoying.  As it turned out, Chargaff's Rule (see "Coolest Part") was a key piece of information that could have led Pauling to discover the double helix structure first, had his arrogance not caused him to overlook Chargaff.
+> - *Improvement*—all of the scientific discoveries—and tools that allowed those discoveries—displayed in the Whipple Museum were a result of people choosing not to be satisfied with the status quo.  By taking what we already have, whether that be knowledge or an instrument, and working to improve upon it, science progresses.
 >
 > **Today's Application**
-> - One of the last lines in [Watson and Crick's paper](https://ui.adsabs.harvard.edu/link_gateway/1953Natur.171..737W/doi:10.1038/171737a0) states, "It has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material."  Their findings opened the doorway for our understanding of how DNA is replicated and much, much more.
->
-> **Coolest Part**
-> - Part of how the double helix structure was discovered was through a statistical analysis of the the nucleobases in DNA.  Adenine and thymine always match up in percentages, as do cytosine and guanine (e.g. 30% adenine, 30% thymine, 20% cytosine, 20% guanine).  These correlations supported the idea of base pairings, which supported the idea of the double helix.
-
-
-
-### Thursday, July 7
-
-Today we went on a walking tour around London led by Dr. Breakwell.  We stopped by lots of different sites, including the first public drinking fountain, St. Bartholomew's Hospital, and St. John's Ambulance.
-
-<img src="./2022-7-7/drinking_fountain.jpeg" style="max-height: 90vh"><br>
-*Lauren and I drinking from the first public drinking fountain*
-
-From what I understand, St. John's Ambulence is kind of like the Red Cross.  It has a youth organization called the Badgers, and if you collect all nine Badger badges, you can become a Super Badger!
-
-<img src="./2022-7-7/badger_badges.jpeg" style="max-height: 90vh"><br>
-*The nine badges of power*
-
-<img src="./2022-7-7/bertie_badger.jpeg" style="max-height: 90vh"><br>
-*The coveted (by me) Bertie Badger figurine awarded to Super Badgers*
-
-We also stopped by the Charterhouse, which had a cool greyhound motif to it.  The ends of the staircase banisters had carved greyhounds topping them, but we hadn't realized we weren't supposed to be over there without a tour guide, so we got kicked out before I could get a picture with them.  I did manage to get a picture with John Wesley, however.
-
-<img src="./2022-7-7/john_wesley.jpeg" style="max-height: 90vh"><br>
-*John Wesley and me*
-
-<img src="./2022-7-7/charterhound.jpeg" style="max-height: 90vh"><br>
-*Stone greyhound carving on the outside of the Charterhouse*
-
-After the Charterhouse we broke off into smaller groups, one of which I nobly led to King's Cross Station.
-
-<img src="./2022-7-7/kings_cross.jpeg" style="max-height: 90vh"><br>
-*Outside King's Cross Station*
-
-We of course were there to see Platform 9¾.  I didn't get any pictures once I made it to the platform itself, but I have one of me about to enter.
-
-<img src="./2022-7-7/platform_9¾.jpeg" style="max-height: 90vh"><br>
-*Entering Platform 9¾*
-
-We regrouped at an Indian restaurant, Dishoom, for lunch.  We ate family style, but there was a set menu so we didn't have to argue over what to get at all.
-
-<img src="./2022-7-7/dishoom_group.jpeg" style="max-height: 90vh"><br>
-*Group lunch at Dishoom*
-
-<img src="./2022-7-7/dishoom_menu.jpeg" style="max-height: 90vh"><br>
-*What we ate*
-
-In the evening we went to see Agatha Christie's *The Mousetrap* at St. Martin's Theatre by Leicester Square.  I had a 4-pack of butterbeer in my bag from earlier so I had to leave it at the front counter.  The lady checking bags was really nice, but I was embarrassed thinking about how probably thought it was actual beer.  The play itself was really good, and the part where Miss Casewell says the newspaper contains the "usual political crisis" was [particularly relevant today](https://news.sky.com/story/boris-johnson-to-resign-as-prime-minister-12646836) and got an extra good laugh.
-
-<img src="./2022-7-7/mousetrap.jpeg" style="max-height: 90vh"><br>
-
-<!-- <img src="./2022-7-7/mousetrap_group.jpeg" style="max-height: 90vh"><br> -->
-
-
-### Wednesday, July 6
-
-Today we spent most of the day at Kew Royal Botanical Gardens.  We started off with a tour of the fungarium, where they store over 1.25 million specimens of fungi!
-
-<img src="./2022-7-6/fungarium.jpeg" style="max-height: 90vh"><br>
-*Inside each box is loads of packets of dried fungi specimens*
-
-A lot of the specimens have historical value as well as scientific, including some samples that constitute the first ecological study ever, and some morels that were collected by Charles Darwin himself.
-
-<img src="./2022-7-6/morels.jpeg" style="max-height: 90vh"><br>
-*Morels collected by Charles Darwin*
-
-Afterwards we had a lab tour and then listened to a lecture on mycology.  From there we were free to walk around the gardens.  We grabbed lunch first, for which I got a squash, mozzarella, and pesto pizza.  The mozzarella was really creamy, and like no mozzarella I'd ever had before.  I was wondering what made it so different, and whether it was some sort of fancy British mozzarella.  It wasn't until after I'd finished eating it that we were able to determine that it was vegan mozzarella.  On its own it was good, but from that perspective, I decided that the mozzarella was terrible, because it tasted nothing like actual mozzarella.  This was not unlike how beautiful the acoustics in St. Paul's Cathedral were yesterday from an auditory perspective, but how absolutely atrocious they were as far as comprehension of the singing went (and no, they were not singing in Latin the other time as some thought they had been).
-
-Kew had lots of different greenhouses, and it was super interesting to feel the different climates (tropical, arid, temperate) as we walked through different sections.
-
-<img src="./2022-7-6/palm_house.jpeg" style="max-height: 90vh"><br>
-*The Palm House of Kew Gardens*
-
-There were lots of interesting plants and I took tons of photos, but here are a few of the ones that turned out reasonably well:
-
-<img src="./2022-7-6/purple_flowers.jpeg" style="max-height: 90vh"><br>
-<img src="./2022-7-6/orange_flower.jpeg" style="max-height: 90vh"><br>
-<img src="./2022-7-6/pink_flowers.jpeg" style="max-height: 90vh"><br>
-
-Another fun part of the gardens was their Treetop Walkway, where, obviously enough, we were able to walk around the treetops.  I was however a little disappointed at the lack of treehouses.
-
-<img src="./2022-7-6/treetops.jpeg" style="max-height: 90vh"><br>
-*Becoming one with the trees*
-
-One other cool thing we saw at Kew Gardens was a structure called "The Hive."  Sometimes they light up different parts of it, which I'm sure would have made it even more impressive.
-
-<img src="./2022-7-6/hive_exterior.jpeg" style="max-height: 90vh"><br>
-*The Hive*
-
-I especially liked the view of the top from the inside.
-
-<img src="./2022-7-6/hive_interior.jpeg" style="max-height: 90vh"><br>
-*Inside The Hive*
-
-We also found this cool blue box right outside the station on our way back.  It was locked, so I can't confirm whether or not it's bigger on the inside.
-
-<img src="./2022-7-6/police_box.jpeg" style="max-height: 90vh"><br>
-
-> #### MMBIO Writeup:<br>Kew Royal Botanical Gardens
->
-> **Historical Significance**
-> - Kew holds the largest and one of the oldest collections of fungal specimens in the world.  Many of the specimens are stored alongside the notes of prominent scientists and help us better understand how mycology has developed over time.
->
-> **Scientific Principles**
-> - *Records, records, records*–The fungarium is an example of how valuable it is to keep records when doing scientific work.  The records of scientists from over a hundred years ago are still being looked over today.  Digitalization of specimens allows data to be organized, processed, and shared in ways that it could not be previously.
->
-> **Today's Application**
-> - Mycology still has a ton of room to grow.  Only a small percentage of fungi in the world have been identified.  As new fungi are discovered and studied, they likely will have a significant impact on pharmaceuticals and the treatment of disease.
+> - Understanding the history of science helps us to build the foundational knowledge that is needed to make new discoveries.  History also provides us with successful examples of using the scientific method, which can help us to develop frameworks for modern experiments.
 >
 > **Coolest Parts**
-> - No one has figured out how to culture porcini, so it is only obtainable through foraging.
-> - Endophytes are fungi that live inside nearly every plant.  They have generally have symbiotic relationships with plants, and can help them take in more water and resist pathogens.
+> - On a shelf in the museum were a variety of case studies written by professors, curators, and students.  It was fun to see how someone's research can end up being somewhere really interesting for all to read, rather than just being lost to the depths of the internet.  Some of the case studies can be found [here](https://doi.org/10.1017/9781108633628).
 
 
-### Tuesday, July 5
+### Wednesday, July 13
 
-We started off the day by going to the Museum of London where we had a lecture on osteoarcheology.  Essentially it was about how we can look at bones that have been dug up and learn about civilizations, and the diseases people were affected by in particular.  We got to see and handle a TON of really old (~700 years) bones, which was super interesting!  We were asked not to post them online, but I figure I can just post this one and it will be okay.
+This morning we stopped by the Cavendish Laboratory, where the structure of DNA and about a million other things were discovered.  We didn't get to go in, because the labs are actually used for psychology and sociology studies these days (to my professors' dismay), but the buildings were very nice.
 
-<img src="./2022-7-5/chapless_skull.jpeg" style="max-height: 90vh"><br>
+If you though the 12 Nobel Prize winners coming out of the LMB yesterday was impressive, just wait until you hear about Cavendish.  It has produced a total of [30 laureates](https://en.wikipedia.org/wiki/Cavendish_Laboratory#Nobel_Laureates_at_the_Cavendish), with the first being in 1904 and the most recent in 2019.
 
-For lunch we went to Borough Market, where I got a pulled pork sandwich.  The sandwich was probably about half as good as it would have been if it had had barbecue sauce on it, but it still ended up being just about as messy.
+<img src="./2022-7-13/cavendish_establishment_plaque.jpeg" style="max-height: 90vh"><br>
+*History of Cavendish Labs*
 
-<img src="./2022-7-5/pulled_pork.jpeg" style="max-height: 90vh"><br>
+<img src="./2022-7-13/cavendish_thompson_plaque.jpeg" style="max-height: 90vh"><br>
+*Location of the discovery of the electron...*
 
-It also turns out Borough Market is [the site of the Leaky Cauldron](https://i.pinimg.com/originals/cc/0a/bd/cc0abd3e4a3ed4533504ebee8bc425bd.jpg) in *Harry Potter and the Prisoner of Azkaban*.  The taco place is what would have been the Leaky Cauldron, and the place on the right (the one that says "Arthur") was the Third Hand Book Emporium.
+<img src="./2022-7-13/cavendish_josephson_plaque.jpeg" style="max-height: 90vh"><br>
+*...and of something else that I hardly understand*
 
-<img src="./2022-7-5/leaky_tacos.jpeg" style="max-height: 90vh"><br>
-*Something tells me Tom doesn't work there anymore.*
+Being microbiology majors (apart from Josh and I), we were at Cavendish Labs primarily because of its role in Watson and Crick's discovery of DNA's double helix structure.  Just down the street is The Eagle, the pub where they announced their discovery.
 
-After stopping by the Leaky Cauldron, we went to the *other* Leaky Cauldron—the one from *Harry Potter and the Philosopher's Stone* (or *Sorcerer's Stone* for you Yanks)—in Leadenhall Market, which is also where Diagon Alley was filmed.
+<img src="./2022-7-13/the_eagle.jpeg" style="max-height: 90vh"><br>
+*The Eagle pub*
 
-<img src="./2022-7-5/leaky_migraine_clinic.jpeg" style="max-height: 90vh"><br>
-*Me and ~~Hagrid~~ Malcon outside the Leaky Cauldron*
+<img src="./2022-7-13/the_eagle_plaque.jpeg" style="max-height: 90vh"><br>
+*Another plaque, commemorating Crick and Watson (and Franklin)*
 
-Later on, we visited All Hallows by the Tower, which is the oldest church in London, founded in 675 AD.  It also happens to be where both William Penn and John Quincy Adams were baptized.  It's too bad we didn't go yesterday so we could get that bit of American history in for the Fourth of July.  The crypt museum, which was under the church, was the most interesting part for me.  After that we went to St. Paul's Cathedral for Evensong.  Admission was free since we were going to listen to the choir, but it was with the restriction that we couldn't take pictures while we were inside.
+It seemed obligatory to get a drink at this historic site, so I purchased myself an alcohol free beer.  It was terrible.
 
-<img src="./2022-7-5/st_pauls.jpeg" style="max-height: 90vh"><br>
-*Outside St. Paul's Cathedral*
+<img src="./2022-7-13/drink.jpeg" style="max-height: 90vh"><br>
+*Taking a drink in commemoration of the work of Watson and Crick*
 
-We finished off the day by stopping to see Big Ben, which is we technically didn't see, because Big Ben is actually the name of the bell inside the Elizabeth Tower.
+After our visit to the pub, and with my non-alcoholic drink still in hand and unfinished, we went to punt the Cam.  Punting looks similar to taking a gondola ride, but instead of using an oar, the punter just uses a big stick to push the punt along the river.
 
-<img src="./2022-7-5/big_ben.jpeg" style="max-height: 90vh"><br>
-*Large Benjamin*
+<img src="./2022-7-13/punting_group.jpeg" style="max-height: 90vh"><br>
+*Us in our punt, from the perspective of our punter, Dylan*
 
-<img src="./2022-7-5/london_eye.jpeg" style="max-height: 90vh"><br>
-*The London Eye is right across the Thames from the Tower*
+<img src="./2022-7-13/other_punting_group.jpeg" style="max-height: 90vh"><br>
+*The other half of our group on the Cam*
 
-> #### MMBIO Writeup:<br>London Museum
+<img src="./2022-7-13/sigh.jpeg" style="max-height: 90vh"><br>
+*Punting the Cam with MacKayla and Sam! (rhyme intended)*
+
+In the background of the previous photo you'll see other people punting, as well as the Bridge of Sighs.  This bridge is to be confused with the Bridge of Sighs in Venice, Italy, nor with the Bridge of Sighs in Oxford, England.  It is also not to be confused with *Bridge of Spies*, featuring Tom Hanks.  In addition to its confusing name, Cambridge's Bridge of Sighs is also known for being the place where engineering students [suspended a car over the river](https://www.cambridge-news.co.uk/news/cambridge-news/how-cambridge-university-pranksters-managed-17836295) as a prank.
+
+Before the boat trip was over I finally managed to gag down the last few drops of my beer.
+
+Afterwards, we wandered through the town a bit, stopping at different shops as we went.  Eventually I ended up at the Fitzwilliam Museum, which had some really interesting art pieces.  One part of the museum was a special exhibit on [David Hockney](https://en.wikipedia.org/wiki/David_Hockney).  I really liked the display of his digital art, mostly for the great description it had:
+
+> "When Hockney discovered the iPhone, and subsequently the iPad, as drawing tools he was excited by their potential. 'This is a real new medium', he explained, 'So much variety is possible. You can't overwork this because it's not a real surface.  And you can put anything on anything: a bright, bright blue on top of an intense yellow.' . . . As he said, 'I draw flowers every day and send them to friends, so they get fresh flowers every morning. And my flowers last!'"
+
+<img src="./2022-7-13/hockney.jpeg" style="max-height: 90vh"><br>
+How to Make Flowers Last *by David Hockney—the screen cycled through different digital paintings*
+
+Another really interesting display involved a work by Nicholas Poussin.  Poussin was known for setting up 3D models to base his paintings off of in order to better account for lighting and depth.  Although it's not known for sure whether he used a model for the painting below, it is considered likely, and a model similar to what he may have used was constructed for the museum display.
+
+<img src="./2022-7-13/poussin_painting.jpeg" style="max-height: 90vh"><br>
+Extreme Unction *by Nicholas Poussin*
+
+<img src="./2022-7-13/poussin_model.jpeg" style="max-height: 90vh"><br>
+*Recreation of Poussin's possible 3D model*
+
+Before the museum closed, we stopped by the gift shop, where I found some great socks featuring Ada Lovelace.  I'm not really sure how she relates to anything on display in the Fitzwilliam Museum, but she is widely considered to be the first computer programmer, so I had to buy them.
+
+<img src="./2022-7-13/ada_socks.jpeg" style="max-height: 90vh"><br>
+*"That brain of mine is something more than merely mortal; as time will show." – Ada Lovelace<br>(This has proven to be true historically for Ada, and I believe it is a spiritual truth applicable to each of us.)*
+
+After the museum, I got a tiny scoop of gelato.  I know failing to mention it would disappoint my sister.
+
+<img src="./2022-7-13/gelato.jpeg" style="max-height: 90vh"><br>
+*Single scoop of treacle at Jack's Gelato*
+
+After dessert, we picked up some real food at the grocery store and had a picnic in one of the parks.  When we were done eating, we played cards and MacKayla taught us some self-defense moves.
+
+<img src="./2022-7-13/sandwich.jpeg" style="max-height: 90vh"><br>
+*Wearing my sandwich as a hat, ready to fight*
+
+> #### MMBIO Writeup:<br>Cavendish Laboratory
 >
 > **Historical Significance**
-> - The skeletons studied here are representative of London's population during different periods of time and help us to better understand what ailments they struggled with.
+> - A whole ton!  In addition to the discovery of DNA at Cavendish Laboratory, about a million other things have been discovered there as well.
 >
 > **Scientific Principles**
-> - *Comparative genomics*—by looking at the DNA in the teeth of skeletons found in the plague pit of Smithfield and comparing it to the DNA of *yersinia pestis*, scientists were able to bolster their theory that *y. pestis* was the cause of the black death.
+> - *Importance of gathering data*—it was by combining all the data that they and others had collected that Watson and Crick were able to come to their conclusion about the structure of DNA (see the writeup for [Double Helix at the Science Museum](#mmbio-writeupdouble-helix-at-the-science-museum))
 >
 > **Today's Application**
-> - We are able to learn more about history and disease by studying skeletons.  Hopefully by doing so we can better understand how to protect ourselves from future diseases.
+> - Recognizing all the scientific discoveries that have been made—even over just a short period of time in a single location—helps us to see how much room there is for new discoveries to keep being made.
 >
 > **Coolest Part**
-> - Being able to look at and handle multiple skeletons that were extremely old was an incredible experience.  I'm sure it's not the type of thing they let just anyone do and it was amazing to be able to that.
+> - Just the sheer number of Nobel Prizes that have come out of a single research laboratory is incredible to me.
 
 
-### Monday, July 4
+## Oxford
 
-Happy Fourth of July!  We didn't do much to celebrate today, but I *did* find a peacock feather that I stuck in my hat and promptly called macaroni.
+### Thursday, July 14
 
-<img src="./2022-7-4/peacock.jpeg" style="max-height: 90vh"><br>
-*The peacock that so graciously left a feather behind for me*
+We left Cambridge today for Oxford.  On the bus, I fulfilled my agreement with MacKayla and we watched [*Hidden Figures*](https://en.wikipedia.org/wiki/Hidden_Figures).  It was really cool to see how much the women in that movie accomplished.  I think the difficult positions they were in made it so they really couldn't afford not to put in all the incredible hard work that they did.  That hard work ended up putting them way ahead of many of the other women they worked with, especially when it came to adapting to use computers in their work.
 
-Our first stop for the today was the Grant Museum of Zoology, which is a massive collection of about 65,000 specimens (8,000 of those are sets of mouse bones that were collected for a study, with 4,000 of them on display.
+The first place we visited in Oxford was the Museum of Natural History.  One thing that's crazy about that museum is that you can actually touch some of the animals on display.  It's a little sad of course, but I certainly wasn't going to turn down the chance I had to finally pet a bear.
 
-<img src="./2022-7-4/mouse_bones.jpeg" style="max-height: 90vh"><br>
-*4,000 sets of mouse bones*
+<img src="./2022-7-14/bear_hug.jpeg" style="max-height: 90vh"><br>
+*A bear hug!*
 
-The Grant Museum had an incredible variety of specimens.
+They also had a lot of insects on display, including what I consider to be a perfect reflection of the Victorian Era in a number of ways.
 
-<img src="./2022-7-4/elephant_heart.jpeg" style="max-height: 90vh"><br>
-*Any guesses who this heart once belonged to?*
+<img src="./2022-7-14/flea.jpeg" style="max-height: 90vh"><br>
+*The Victorians were interesting*
 
-<img src="./2022-7-4/microscope_slides.jpeg" style="max-height: 90vh"><br>
-*Lots and lots of microscope slides*
+From there we went to the History of Science Museum, which could probably be more properly labeled as the "Astrolabes and a Few Other Things Museum."
 
-For lunch we all stopped at a place called Pret, which apparently does have some locations in the US, although it's UK-based.  I got a tomato and Brie sandwich, which was delicious, and a rhubarb lemonade, which I assume is about as close to a hard lemonade as you can get without actually having any alcohol in it—it was really strong.
+<img src="./2022-7-14/astrolabes.jpeg" style="max-height: 90vh"><br>
+*I'm still not really sure how these things work*
 
-<img src="./2022-7-4/rhubarb_lemonade.jpeg" style="max-height: 90vh"><br>
-*Prêt à Manger (the full name of Pret) is French for "ready to eat"*
+Part of why we visited that museum was for the penicillin display found in the basement, which was super interesting.  Penicillin has a long but recent history, and its original discovery is particualrly interesting.  Alexander Fleming had been culturing a bacteria in his lab, but it ended up becoming contaminated by a fungus.  He observed that the fungus (penicillium) seemed to be inhibiting and killing the bacteria around it.  Upon further research, he found that it was producing an antibacterial substance that he dubbed penicillin.  Other scientists developed methods to isolate and mass produce penicillin, which allowed it to be used to treat serious infections.
 
-After lunch we did a bit of walking to get to the next site, with some cool things along the way.  One street we went down seemed to be all guitar shops.  I can think of at least one family member who would've been in heaven there.
+<img src="./2022-7-14/penicillin_model.jpeg" style="max-height: 90vh"><br>
+*Model of the effect of Penicillium rubens on Staphylococcus aureus*
 
-<img src="./2022-7-4/taylor_guitars.jpeg" style="max-height: 90vh"><br>
-*The guitar district of London?*
-
-We also saw some cool street art along our walk.
-
-<img src="./2022-7-4/spaceship.jpeg" style="max-height: 90vh"><br>
-*"Spaceship!!!"*
-
-Our final destination was the Broad Street Pump, which is where John Snow (no relation to Jon Snow) famously removed the handle of the pump as part of his investigation of the [1854 Broad Street cholera outbreak](https://en.m.wikipedia.org/wiki/1854_Broad_Street_cholera_outbreak).
-
-<img src="./2022-7-4/broadstreet_pump.jpeg" style="max-height: 90vh"><br>
-*Broad Street pump with the cholera that Dr. Breakwell gave me*
-
-After the pump we broke off into smaller groups.  After going to Carnaby Street and realizing everything felt to expensive for us to even go inside most of the shops, we headed over to the British Museum.
-
-<img src="./2022-7-4/williams_cousin.jpeg" style="max-height: 90vh"><br>
-*[William the Hippo](https://www.metmuseum.org/art/collection/search/544227)'s cousin*
-
-<img src="./2022-7-4/molossian_hound.jpeg" style="max-height: 90vh"><br>
-*A boy and his Molossian Hound<br>(Don't worry—I'm not actually touching the art)*
-
-For dinner we went to a pub called Pride of Paddington.  The food was good, but my favorite part was seeing all the Paddington Bear sites nearby.
-
-<img src="./2022-7-4/pride_of_paddington.jpeg" style="max-height: 90vh"><br>
-*Paddington behind the bar counter of the pub*
-
-<img src="./2022-7-4/statue_of_paddington.jpeg" style="max-height: 90vh"><br>
-*Statue of Paddington inside Paddington Station*
-
-<img src="./2022-7-4/bench_of_paddington.jpeg" style="max-height: 90vh"><br>
-*Also in Paddington Station*
-
-I think it's safe to say the true pride of Paddington lies in its bear rather than in its pub.
-
-> #### MMBIO Writeup:<br>Grant Museum
+> #### MMBIO Writeup:<br>Museum of Natural History & History of Science Museum
 >
 > **Historical Significance**
-> - One of the oldest natural history museums in London
-> - Founded by Edward Grant, one of Charles Darwin's professors
+> - Penicillin played a significant role in the advancement of medicine and allowed many diseases and conditions that had been previously untreatable to be cured.
 >
 > **Scientific Principles**
-> - *Comparative anatomy*—comparing the skeletons of different species allows us to see how they evolved from a common ancestor.  A good example of this is the dugong, whose skeleton looks similar enough to humans that it became a source for legends of mermaids.
+> - *Natural selection*—the Museum of Natural History had some great displays on natural selection, but the rise of antibiotic-resistant bacteria is a great example of this as well.  Penicillin and other antibiotics have acted as natural selectors, killing off certain bacteria, while allowing antibiotic-resistant variations and mutations of those bacteria to survive.
 >
 > **Today's Application**
-> - The Grant Museum is still used today to teach students around the world.  Third year students are given unlabeled specimens (such as a bone) and have a semester to identify properly identify them.
+> - Antibiotics are still in use today to treat bacterial infections.  As antibiotic-resistant bacteria have become more prevalent, the need for alternative methods of treatment, such as vaccination, has become more pressing.
 >
 > **Coolest Part**
-> - I found it really interesting to see how much variation there was in the skull structure of different breeds of domestic dogs.  In contrast, the skulls of domestic cats, ocelots, and tigers all had nearly the exact same structure, only differing in overall size.
+> - Also the grossest part—before the mass production of penicillin was achieved, penicillin was so scarce that the excess that passed through the systems of patients had to be reclaimed from their urine for isolation and reuse.
 
 
-### Sunday, July 3
+## Gloucester
 
-Today we attended sacrament meeting at the Hyde Park Ward.  The building they meet in is super interesting; it functions as a meetinghouse, a visitors' center, a mission office, etc., etc.
+### Friday, July 15
 
-<img src="./2022-7-3/church_group.jpeg" style="max-height: 90vh"><br>
-*This was just part of our group—the rest went to later wards*
+<img src="./2022-7-15/nelson.jpeg" style="max-height: 90vh"><br>
+*Nelson and I seem to have matching hair*
 
-After church we took the tube down to Wimbledon for The Championships.  I'm not a huge tennis fan myself, but everyone else was going and I figured at the very least it would be worth going for bragging rights.
+<img src="./2022-7-15/tower.jpeg" style="max-height: 90vh"><br>
+*The tower brewery*
 
-<img src="./2022-7-3/tennis_throne.jpeg" style="max-height: 90vh"><br>
-*I thought it was odd that a tournament in the UK was sponsored by AmEx*
+<img src="./2022-7-15/tower_diagram.jpeg" style="max-height: 90vh"><br>
+*Diagram of the tower brewing process*
 
-We bought the cheap tickets, so we didn't get to see anything at the central court, but we were able to catch some really good doubles matches.  In the first one, a Women's Doubles match, the team from the US managed to catch up on a 5-1 set with 5 wins in a row.  Unfortunately the other team tied it back up to 6-6 and them went on to win the tie breaker.
+<img src="./2022-7-15/malt.jpeg" style="max-height: 90vh"><br>
+*Various roast levels of malt*
 
-<img src="./2022-7-3/womens_doubles.jpeg" style="max-height: 90vh"><br>
-*Alison Riske-Amritraj serving in the Women's Doubles match*
+<img src="./2022-7-15/yeast.jpeg" style="max-height: 90vh"><br>
+*Yeast fermenting the beer*
 
-Between that match and a Men's Doubles I grabbed some food, which I have been requested to include pictures of.
+> #### MMBIO Writeup:<br>Hook Norton Brewery
+>
+> **Historical Significance**
+> - Hook Norton is one of the few surviving tower breweries in the world.  They have been brewing beer commercially since 1856.
+>
+> **Scientific Principles**
+> - *Fermentation*—yeast converts sugars (such as maltose) in wort into carbon dioxide and alcohol.
+>
+> **Today's Application**
+> - Fermentation is used today in many different products.  In addition to being used in the production of beer and other types of alcohol, fermentation is also used in the production of [other foods](https://en.wikipedia.org/wiki/List_of_fermented_foods) such as bread, yogurt, and chocolate.
+>
+> **Coolest Part**
+> - Amylase in the base malt breaks down malt starches into less complex sugars, just as enzymes in saliva would.  Rather than allowing these sugars to be used to feed the growth of the grains, these sugars are used as food for the yeast.
 
-<img src="./2022-7-3/high_hurst.jpeg" style="max-height: 90vh"><br>
-*High Hurst sausage on a sourdough bun with fried onions and sriracha mayo*
 
-In the Men's Doubles match, we got to see the number one ranked team play, which had one player from the US and another from Great Britain.  It was a thrilling match, and the reactions of one of the opposing players were very entertaining.
+### Sunday, July 17
 
-<img src="./2022-7-3/rajeev_ram.jpeg" style="max-height: 90vh"><br>
-*Rajeev Ram (USA) serving in the Men's Doubles match*
+<img src="./2022-7-17/comparison.jpeg" style="max-height: 90vh"><br>
+*Side-by-side comparisons of the effects of variolation using smallpox (left) and vaccination using cowpox (right), both methods of developing immunity*
 
-Overall the tennis games were really fun to watch, and certainly beat all the walking around that we've been doing to get places.  I think it's safe to say the trip was worth more than bragging rights to me, but that also didn't stop me from buying a hat to show off.
+<img src="./2022-7-17/an_inquiry.jpeg" style="max-height: 90vh"><br>
+*(Very large) second edition of Dr. Jenner's research printed in 1800*
 
-<img src="./2022-7-3/wimbledon_group.jpeg" style="max-height: 90vh"><br>
+<img src="./2022-7-17/temple_of_vaccinia.jpeg" style="max-height: 90vh"><br>
+*I was going for looking like a Hobbit, but the wide angle lens made me a basketball player instead*
+
+<img src="./2022-7-17/ped-o-jet.jpeg" style="max-height: 90vh"><br>
+*The Ped-O-Jet allowed needleless vaccinations to be performed using a high power jet*
+
+<img src="./2022-7-17/catherine_jenner.jpeg" style="max-height: 90vh"><br>
+*The only known image of Jenner's wife, Catherine.  It annoyed me a little in comparison to the many portraits of him that were up in the house*
+
+> #### MMBIO Writeup:<br>Edward Jenner's House
+>
+> **Historical Significance**
+> - Edward Jenner performed much of his research on and development of vaccination in and around his home.  In the Temple of Vaccinia, a small hut outside his home, he gave some of the first vaccinations.
+>
+> **Scientific Principles**
+> - *Vaccination*—vaccination involves innoculating patients with a milder variation of a pathogen in order to allow the body to build up immunity.
+>
+> **Today's Application**
+> - Vaccination continues to be extremely important to public health.  The development of new vaccines has been of particular importance to recent outbreaks such as those of COVID-19 and monkeypox, as well as in addressing the rise of antibiotic-resistant bacteria.
+>
+> **Coolest Part**
+> - Although Jenner came up with the idea of vaccination using cowpox, a less dangerous relative of smallpox, the practice of variolation had been present in certain societies dating all the way back to 1000 B.C.  Variolation involved innoculating people with a small dose of smallpox, but was more risky than vaccination.  See the image comparing variolation and vaccination above.
 
 
-### Saturday, July 2
+## Bath
 
-This morning (or at least what feels like this morning), I took the train up to the SLC airport where I met up with another girl in my group.  From SLC we had a layover in LAX, and then a long flight to the London Heathrow Airport.  All of our attendants on the second flight had interesting accents.  Once we made it to the airport, we met up with another girl in our group and took the underground to Earl's Court Station.  It was a long, fairly boring, and crowded ride with about 15 stops along the way.  From there, we walked about a mile to get to our hostel, arriving around 3:30 pm.  We were surprised at how many stairs there were coming out of the metro station, which probably wouldn't have been something we would have noticed had we not had our suitcases with us.  After making it to the hostel, we met up with some more of our group—including Dr. Breakwell and his wife—and went out to get food and take a brief walk by Kensington Palace.
+### Monday, July 18
 
-<img src="./2022-7-2/kensington.png" style="max-height: 90vh"><br>
-*Kensington Palace*
+<img src="./2022-7-18/great_bath.jpeg" style="max-height: 90vh"><br>
+*Overlooking the Great Bath*
 
-At Kensington, Dr. Breakwell and his wife got something called a 99, which is an ice cream cone with a Flake bar that unfortunately costs much more than 99 pence.  I'll plan on getting one soon, so stay tuned.  Other than the many, many dogs that we saw, one of my favorite parts was seeing the statue of Queen Victoria.  It would have been slightly better if I'd been able to witness *la rana* that I heard a Hispanic boy pointing out to his parents, but it was still a great statue, and the lily pads in front of it were very pretty.
+<img src="./2022-7-18/bath_water.jpeg" style="max-height: 90vh"><br>
+*Microbiology at work*
 
-<img src="./2022-7-2/victoria.png" style="max-height: 90vh"><br>
-*Queen Victoria statue at Kensington Palace*
+<img src="./2022-7-18/2003.jpeg" style="max-height: 45vh"><br>
+*At the Roman Baths in 2003*
 
-Back at the hostel, I beat a couple other guys in my group at blackjack.  Lucky for them, we were just playing with chips and not real money, because (1) I don't gamble, and (2) foreign currency does not come cheap.  Hopefully I'll manage to keep up on writing about my travels here and keep it interesting as well.  If anyone has any suggestions for things to do while I'm here, please let me know!
+<img src="./2022-7-18/2022.jpeg" style="max-height: 45vh"><br>
+*In place of the ancient artifacts, they now have . . . a bar.*
+
+<img src="./2022-7-18/gorgon.jpeg" style="max-height: 90vh"><br>
+*Pediment of the Temple of Sulis Minerva, featuring a Celtic-style gorgon*
+
+<img src="./2022-7-18/water_analysis.jpeg" style="max-height: 90vh"><br>
+*Water analysis*
+
+<img src="./2022-7-18/cheers.jpeg" style="max-height: 90vh"><br>
+*Cheers!*
+
+> #### MMBIO Writeup:<br>Roman Baths
+>
+> **Historical Significance**
+> - The temple surrounding the Roman Baths was constructed in the first century A.D.  They were functional for about five centuries, after which they fell into ruin, until later redevelopment in the Middle Ages.  Today they are not open for bathing, but are maintained as a historical site.
+>
+> **Scientific Principles**
+> - *Ecology*—the water of the Roman Baths is a very unique environment.  It is a warm and chock-full of minerals.  While water from the spring is clean enough to drink, things will certainly begin to grow if it sits for a while.  The water is a good environment in particular for archaea—single-celled prokaryotes, often with unique cell walls for protection in harsh environments.
+>
+> **Today's Application**
+> - There are so many varieties of microorganisms throughout the world, and new ones are constantly being identified.  Places like the Roman Baths are just one of many that have caught the interest of microbiologists for study.
+>
+> **Coolest Part**
+> - Just as we often throw coins into fountains, Romans would through tributes to Athena into the waters of Bath.  A wide variety of items have been found in the waters, including written requests for curses upon wrong-doers.
+
+
+## Paris
+
+### Thursday, July 21
+
+<img src="./2022-7-21/the_plague_of_ashdod.jpeg" style="max-height: 90vh"><br>
+The Plague of Ashdod *by Nicholas Poussin*
+
+<img src="./2022-7-21/the_plague_of_ashdod_description.jpeg" style="max-height: 90vh"><br>
+
+> #### MMBIO Writeup:<br>The Louvre
+>
+> **Historical Significance**
+> - The plague described in 1 Samuel is perhaps the earliest known documentation of the bubonic plague.  In addition to the biblical account, Poussin's depiction is also influenced by the contemporary events of the ongoing plague in Italy during which he painted the piece.
+>
+> **Scientific Principles**
+> - *Bacteria*—today, bubonic plague is attributed to the bacteria Yersinia pestis, which multiplies in the body and causes the lymph nodes to swell.
+>
+> **Today's Application**
+> - The plague continues to be endemic in some countries and present on five continents (oddly enough, Australia, a land known for its natural dangers, is not among them).
+>
+> **Coolest Part**
+> - See the historical significance above!
+
+
+### Friday, July 22
+
+<img src="./2022-7-22/la_caverne.jpeg" style="max-height: 90vh"><br>
+
+<img src="./2022-7-22/mushrooms.jpeg" style="max-height: 90vh"><br>
+*Not 100% sure what these ones are... Any help?*
+
+<img src="./2022-7-22/paris_mushrooms.jpeg" style="max-height: 90vh"><br>
+*Paris mushrooms, also known as champignons, which is really just French for "mushrooms"*
+
+<img src="./2022-7-22/oysters.jpeg" style="max-height: 90vh"><br>
+*Oyster mushrooms, with the substrate wrapped in plastic to retain heat and keep out contaminants*
+
+<img src="./2022-7-22/shiitakes.jpeg" style="max-height: 90vh"><br>
+*Shiitake mushrooms.  No plastic is needed because the fungi forms its own protective structure around the substrate*
+
+<img src="./2022-7-22/herbs.jpeg" style="max-height: 90vh"><br>
+*Herbs grown for culinary use in one of the rented spaces*
+
+<img src="./2022-7-22/hydroponics.jpeg" style="max-height: 90vh"><br>
+*Hydroponics in another rented space*
+
+<img src="./2022-7-22/la_caverne_group.jpeg" style="max-height: 90vh"><br>
+*Our guide, the head grower, is at the back right to the left of Dr. Johnson*
+
+> #### MMBIO Writeup:<br>La Caverne
+>
+> **Historical Significance**
+> - La Caverne is part of a city cleanup project.  It resides in an abandoned underground parking structure that for some time was a hot spot for drug dealing and prostitution.  Nowadays, the parking structure is free of crime, and is used by La Caverne for mushroom and endive farming, as well as by other companies that they rent space out to.
+>
+> **Scientific Principles**
+> - *Fungiculture*—a variety of mushrooms are farmed at La Caverne.  Mushrooms are more touchy than most plants when it comes to farming, so the controlled environment of the underground parking structure is very conducive to their farming.
+>
+> **Today's Application**
+> - La Caverne is a great model for urban development.  As more places like La Caverne are created, they will have positive effects on the social, environmental, and economic aspects of their surrounding communities.
+>
+> **Coolest Part**
+> - In one of the large farming rooms, we were told that when at full growing capacity, it is only safe to remain in the room for up to 20 minutes at a time, because of the spores in the air.
+
+
+### Monday, July 25
+
+<img src="./2022-7-25/first_floor.jpeg" style="max-height: 90vh"><br>
+
+<img src="./2022-7-25/wool_1.jpeg" style="max-height: 70vh"><br>
+*Mérinos d'Arles and Bizet wool*
+
+<img src="./2022-7-25/wool_2.jpeg" style="max-height: 70vh"><br>
+*Charmoise and Limousine wool*
+
+<img src="./2022-7-25/wool_3.jpeg" style="max-height: 70vh"><br>
+*Texel and Manech wool*
+
+<img src="./2022-7-25/polar_bear_selfie.jpeg" style="max-height: 90vh"><br>
+*Me and a friendly polar bear*
+
+<img src="./2022-7-25/polar_bear_tail.jpeg" style="max-height: 90vh"><br>
+*Polar bears have cute bunny tails*
+
+<img src="./2022-7-25/kangaroos.jpeg" style="max-height: 90vh"><br>
+*Sad but very cute*
+
+<img src="./2022-7-25/platypuses.jpeg" style="max-height: 90vh"><br>
+*I don't think I've ever seen a more dynamic display than this*
+
+<img src="./2022-7-25/australopithecus.jpeg" style="max-height: 90vh"><br>
+*Cast of [Australopithecus](https://assets.amuniversal.com/292c60a0dec20131719a005056a9545d) footprints*
+
+> #### MMBIO Writeup:<br>Jardin des Plantes Grande Galerie de l'Évolution
+>
+> **Historical Significance**
+> - The Grande Galerie de l'Évolution features animals from all over the world, with a special emphasis on how individual species developed.
+>
+> **Scientific Principles**
+> - *Speciation and natural selection*—As separate groups of the same species diverge in traits, new species develop.  As traits develop among individuals within a group, natural selection may cause that species to evolve into a new one over time.
+>
+> **Today's Application**
+> - For me, one of the biggest takeaways from understanding natural selection is the importance of avoiding *unnatural* selection.  Intentional selective breeding can be very valuable (see below), but other things such as hunting and urban development can cause unintentional effects that lead to the extinction of species.  It's important that we do our part to maintain the incredible biodiversity of the world.
+>
+> **Coolest Part**
+> - I enjoyed seeing the differences in the types of wool from different breeds of sheep.  Selective breeding is strong contributing factor in these differences.
+
+
+### Tuesday, July 26
+
+<img src="./2022-7-26/kitchen.jpeg" style="max-height: 90vh"><br>
+*In the kitchen, ready to go!*
+
+<img src="./2022-7-26/olive_bread.jpeg" style="max-height: 90vh"><br>
+*My olive bread*
+
+<img src="./2022-7-26/baguettes.jpeg" style="max-height: 90vh"><br>
+*My baguettes*
+
+<img src="./2022-7-26/chefs_bread.jpeg" style="max-height: 90vh"><br>
+*The chef's wheat bread, baguettes, and olive bread*
+
+<img src="./2022-7-26/proof_comparison.jpeg" style="max-height: 90vh"><br>
+*Comparison of baguettes made with dough that has proofed/risen overnight (right) and dough that has not (left)*
+
+<img src="./2022-7-26/certificate.jpeg" style="max-height: 90vh"><br>
+*Recieving my certificate from the chef*
+
+> #### MMBIO Writeup:<br>Le Cordon Bleu
+>
+> **Historical Significance**
+> - Breadmaking predates recorded history.  Le Cordon Bleu was first established in 1895.  Today it has over 30 locations worldwide.
+>
+> **Scientific Principles**
+> - *Formation of gluten*—When water is added to flour, it allows two classes of protein, glutenin and gliadin to combine with each other and form gluten.  Kneading dough helps move that process along, developing an elastic gluten network within the dough.
+> - *Fermentation*—Yeast ferments sugars in the dough into carbon dioxide and alcohol.  The elasticity of the gluten helps keeps the carbon dioxide from escaping, causing the dough to rise.
+>
+> **Today's Application**
+> - Bread has been around for a long time, but it's also not going anywhere anytime soon.  It remains a staple food throughout the world.  Understanding the science of breadmaking is important to developing different types of bread and creating variations in flavor and consistency.
+>
+> **Coolest Part**
+> - I finally understand what gluten actually is.  It's more than just a buzzword to me now.
+
+
+## Mont Saint Michel
+
+### Wednesday, July 27
+
+<img src="./2022-7-27/camembert_sign.jpeg" style="max-height: 90vh"><br>
+*Welcome to Camembert!*
+
+<img src="./2022-7-27/boxes.jpeg" style="max-height: 90vh"><br>
+*Boxes of camembert from around the world*
+
+<img src="./2022-7-27/label.jpeg" style="max-height: 90vh"><br>
+*One of my favorites from the museum's vast label collection*
+
+<img src="./2022-7-27/normande.jpeg" style="max-height: 90vh"><br>
+*Normande cow, a producer of milk used in Camembert.  Also known as a "bespectacled cow"*
+
+<img src="./2022-7-27/young_camembert.jpeg" style="max-height: 90vh"><br>
+*Young camembert beginning to age*
+
+<img src="./2022-7-27/aging_camembert.jpeg" style="max-height: 90vh"><br>
+*As the camembert matures, it develops its signature "white, bloomy rind"*
+
+<img src="./2022-7-27/tasting.jpeg" style="max-height: 90vh"><br>
+*I'm four labels further along in my goal of joining [Le Club Tyrosémiophile de France](https://www.club-tyrosemiophile.fr)! All I need now is 28 euros...*
+
+> #### MMBIO Writeup:<br>La Maison du Camembert
+>
+> **Historical Significance**
+> - The creation of camembert cheese is attributed to Marie Harel in 1791.  It grew in popularity over time, helped along by the approval of Napoleon III and its distribution to French soldiers during World War I.  Today it is one of the most popular cheeses in France, and is consumed around the world.
+>
+> **Scientific Principles**
+> - *Cheesemaking*—As with [cheddar](#mmbio-writeupcheddar-gorge-cheese-company), camembert begins as raw milk that is coagulated using rennet.  Unlike cheddar however, the curds that develop are not pressed, but are rather allowed to settle and drain off whey naturally.  Additionally, instead of being wrapped, camembert is left open to the air to allow its outer rind to develop.  The white rind of camembert is primarily made up of the fungus Penicillium camemberti, also known as Penecillium candidum.
+>
+> **Today's Application**
+> - Camembert is still widely produced today, and if produced under the AOC designation (see below), is subject to very specific requirements.
+>
+> **~~Coolest~~ Saddest Part**
+> - *True* camembert (also known as AOC camembert—AOC standing for *appellation d’origine contrôlée*, or controlled designation of origin) is illegal in the United States, because it is unpasteurized.
